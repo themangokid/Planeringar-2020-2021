@@ -30,7 +30,7 @@ ca 1 vecka
 Vad är en variabel och vilka olika sorters information/data kan en sådan innehålla?
 
 ca 1 vecka
-## Vilkor
+## Villkor
 Hur får man viss kod att endast utföras i specifika fall.
 
 ca 2 veckor
