@@ -15,7 +15,7 @@ Ingenting ni gör kan sänka ert betyg. Närvaro och delaktighet är viktigt fö
 Nedan följer en grov planering av programmering 1 och de arbetsområden vi kommer gå igenom.</br>
 Vi kommer att ha 2 lektioner i veckan och upplägget kommer för det mesta vara att första lektionen är genomgångar. Andra lektionen kommer att vara laborationer och eget arbete (NÄRVARO KRÄVS).
 
-Efter att området är färdigt kommer relevanta länkar läggas här under rätt rubrik.
+Efter att området är färdigt kommer relevanta länkar läggas här under rätt rubrik. 
  
 
 ## Kursintroduktion

@@ -22,56 +22,74 @@ Efter att området är färdigt kommer relevanta länkar läggas här under rät
 <ul>
     <li>Kursintroduktion med sannolikhetsuppgift på Python.</li> 
     <li>Installera mjukvara: Visual Studio Code, Github</li> 
-</ul>
-ca 2 veckor
+</ul>v35-36
 
 ## Input/output, variabler, datatyper
 Vad är en variabel och vilka olika sorters information/data kan en sådan innehålla?
+v36-37
 
-ca 1 vecka
 ## Villkor
 Hur får man viss kod att endast utföras i specifika fall.
+v37-39
 
-ca 2 veckor
 ## Repetitionssatser
 Hur gör man för att repetera en bit kod flera gånger.
 
-ca 2 veckor
+v40-41
 ## Numpy- och matplotlib
 Bra moduler för matematiska- och naturvetenskapliga beräkningar.
 
-ca 1 vecka
+v42
 
 ## Laboration 1 
 I denna laboration kommer vi bland annat simulera och rita grafer.
 
-ca 2 veckor 
+v43-45 
 
 ## Strängar
 Texthantering
 
-ca 1 vecka
+v46
 
 ## Funktioner
 Används för att kunna dela upp kod för att kunna återanvända en viss funktionalitet.
 
-ca 2 veckor
+v47-48
 
 ## Moduler
 Används för att separera en samling funktioner för att kunna återanvända i flera projekt.</br>
 
-ca 1 vecka
+v49
 
-## Turtle
+## Repetition
 Modul för att rita på skärmen
 
-ca 1 vecka
+v50
+
+## Teoretiskt prov
+Vi kommer ha ett prov på de arbetsområden vi arbetat med under kursen. 
+
+v51
 
 ## Laboration 2 
 Mer info kommer senare
 
-## Teoretiskt prov
-Vi kommer ha ett prov på de arbetsområden vi arbetat med under kursen. 
+v2-3
+
+## Turtle
+Modul för att rita på skärmen
+
+v4
+
+## VPython
+Grafik för fysik 
+
+v5
+
+## Laboration 3 
+Mer info senare
+
+v6-8
 
 ## Slutprojekt
 Mer info kommer senare
