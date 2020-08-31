@@ -12,7 +12,7 @@ Allt ni gör under kursen kommer att vägas in vid bedömning.
 Ingenting ni gör kan sänka ert betyg. Närvaro och delaktighet är viktigt för att jag ska kunna se vad ni kan.
 
 # Grovplanering
-Nedan följer en grov planering av programmering 1 och vad vi kommer gå igenom.</br>
+Nedan följer en grov planering av programmering 1 och de arbetsområden vi kommer gå igenom.</br>
 Vi kommer att ha 2 lektioner i veckan och upplägget kommer för det mesta vara att första lektionen är genomgångar. Andra lektionen kommer att vara laborationer och eget arbete (NÄRVARO KRÄVS).
 
 Efter att området är färdigt kommer relevanta länkar läggas här under rätt rubrik.
@@ -22,41 +22,58 @@ Efter att området är färdigt kommer relevanta länkar läggas här under rät
 <ul>
     <li>Kort kursintroduktion.</li> 
     <li>Installera mjukvara: Visual Studio Code, Github</li>
-    <li></li> 
+    <li>Mappstruktur
+        <ul>
+            <li>namn_efternamn_IT19A</li>
+            <li>skapa undermapp för varje uppgift/lektion</li>
+            <li>commit och push för backup av kod</li>
+        </ul>
+    </li> 
 </ul>
-ca 1 vecka
+v35-36
 
 ## Input/output, variabler, datatyper
 Vad är en variabel och vilka olika sorters information/data kan en sådan innehålla?
 
-ca 1 vecka
+v37
 ## Villkor
 Hur får man viss kod att endast utföras i specifika fall.
 
-ca 2 veckor
+v38-39
 ## Repetitionssatser
 Hur gör man för att repetera en bit kod flera gånger.
 
-ca 2 veckor
+v40-41
 ## Arrayer och Listor
 En speciell typ av variabel som kan hålla flera värden.
+
+v42
 
 ## Strängar
 Texthantering
 
-ca 1 vecka
+v43
 
 ## Funktioner
 Används för att kunna dela upp kod för att kunna återanvända en viss funktionalitet.
 
-ca 1 vecka
+v45-46
 ## Moduler
 Används för att separera en samling funktioner för att kunna återanvända i flera projekt.</br>
 
-ca 1 vecka
+v47
+
+## Repetition 
+v48
+
 ## Teoretiskt prov
 Vi kommer ha ett prov på de arbetsområden vi arbetat med under kursen. 
 
+v49
+
 ## Slutprojekt
 Slutprojektet kommer att vara en hemsida. Mer information kommer senare.</br>
-Eftersom ni går på APL V.10(?) så kommer slutprojektet att starta strax efter jullovet.
+
+v50 introduktion till projektet
+
+Projektet pågår under hela vårterminen 
