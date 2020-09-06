@@ -39,7 +39,7 @@ Efter att området är färdigt kommer relevanta länkar läggas här under rät
     </ul>
     </li>
 </ul>
-v35-36
+v35-36 
 
 ## Input/output, variabler, datatyper
 Vad är en variabel och vilka olika sorters information/data kan en sådan innehålla?
