@@ -29,6 +29,15 @@ Efter att området är färdigt kommer relevanta länkar läggas här under rät
             <li>commit och push för backup av kod</li>
         </ul>
     </li> 
+    <li>Inspirationskodning - en Code along där vi bland annat skapade en förenklad "miniräknare", koden kan ses <a href="https://github.com/NTI-Kronhus/IT19A-PRRPRR01/tree/master/Introkodning">här</a>. Ni fick testa på följande koncept:
+    <ul>
+        <li>variabler</li>
+        <li>if-sats</li>
+        <li>DOM</li>
+        <li>funktion</li>
+        <li>eventlyssnare</li>
+    </ul>
+    </li>
 </ul>
 v35-36
 
