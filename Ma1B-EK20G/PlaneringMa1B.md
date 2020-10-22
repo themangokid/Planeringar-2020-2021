@@ -38,4 +38,4 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 | ----- | ------------------------------ | ----- |
 | 45    | [Andelen, delen, det hela][p1] | 80-83 |
 
-[p1]: https://www.youtube.com/watch?v=2L05YdJdNrQ
+[p1]: https://www.youtube.com/watch?v=6E-8PvCU9Ek
