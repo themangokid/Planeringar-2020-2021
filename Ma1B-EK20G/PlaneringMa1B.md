@@ -4,8 +4,8 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 
 ## Aritmetik - om tal v35-43
 
-| Vecka | Avsnitt                                                                    | Sidor          |     |
-| ----- | -------------------------------------------------------------------------- | -------------- | --- |
+| Vecka | Avsnitt                                                                    | Sidor          | Kommentar |
+| ----- | -------------------------------------------------------------------------- | -------------- | --------- |
 | 35    | [Naturliga tal][nt] <br>                                                   | 8-10<br>       |
 | 36    | [Räkneordning][ro] <br>[Primtal & delbarhet][pd]                           | 11-13<br>14-16 |
 | 37    | [Högstadiematte 1][h1]<br>[Högstadiematte 2][h2]<br>[Högstadiematte 3][h3] |
