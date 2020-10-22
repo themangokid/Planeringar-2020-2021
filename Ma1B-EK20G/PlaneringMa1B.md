@@ -2,8 +2,8 @@
 
 Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå vidare till B- och C-uppgifterna. Planeringen nedan innehåller länkar till videoföreläsningar. Sidorna är referade till boken Matematik 5000.
 
-- [Aritmetik](#Aritmetik)
-- [Procent](#Procent-v45-)
+- [Aritmetik](#aritmetik)
+- [Procent](#procent-v45-)
 
 ## Aritmetik - om tal v35-43
 
