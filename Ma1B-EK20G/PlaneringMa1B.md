@@ -1,8 +1,8 @@
-# Matematik 1B grovplanering
+# Matematik 1B planering
 
 Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå vidare till B- och C-uppgifterna. Planeringen nedan innehåller länkar till videoföreläsningar. Sidorna är referade till boken Matematik 5000.
 
-- [Aritmetik](#aritmetik)
+- [Aritmetik](#aritmetik---om-tal-v35-43)
 - [Procent](#procent-v45-)
 
 ## Aritmetik - om tal v35-43
@@ -35,7 +35,7 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 [gp]: https://www.youtube.com/watch?v=rqRRsFaVDhs
 [pl2]: https://www.youtube.com/watch?v=rfRYBBKanVo
 
-## Procent - v45-
+## Procent v45-
 
 | Vecka | Avsnitt                        | Sidor |
 | ----- | ------------------------------ | ----- |
