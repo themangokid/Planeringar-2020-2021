@@ -44,7 +44,7 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 | 46    | [Promille och ppm][ppm] <br> [Proc. förändr.][pf] <br> [Fler proc. förändr.][pf2] <br> [Förändr. & jämf.][fj] | 91-93 <br> 96-98<br>99-101<br> 102-104 |
 | 47    | Problemlösning <br> [Procentenheter][pe] <br> [Ränta][r] <br> [Amortering][am]                                | 105 <br> 108 <br> 110-111 <br> 112-113 |
 | 48    | [Avgifter][av] <br> [Index][in] <br> [Tema: Moms][mm]                                                         | 114-115 <br> 116-119 <br> 106-107      |
-| 49    | Rep. <br> Sant eller falskt <br> Begrepp <br> Diagnos 2 <br> Blandade övningar                                | <br> 120 <br> 122 <br> 123 <br>126-129 |
+| 49    | <b>Repetition</b> <br> <li> Sant eller falskt <br><li> Begrepp <br><li> Diagnos 2 <br><li> Blandade övningar  | <br> 120 <br> 122 <br> 123 <br>126-129 |
 | 50    | Prov (måndag) <br> Provgenomgång                                                                              |                                        |
 | 51    | Mer info kommer                                                                                               |                                        |
 
