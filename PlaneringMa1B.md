@@ -36,7 +36,7 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 [pl2]: https://www.youtube.com/watch?v=rfRYBBKanVo
 [p1]: https://www.youtube.com/watch?v=6E-8PvCU9Ek
 
-## Procent v45-
+## Procent v45-51
 
 | Vecka | Avsnitt                                                                                                       | Sidor                                  |
 | ----- | ------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
@@ -46,6 +46,7 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 | 48    | [Avgifter][av] <br> [Index][in] <br> [Tema: Moms][mm]                                                         | 114-115 <br> 116-119 <br> 106-107      |
 | 49    | Rep. <br> Sant eller falskt <br> Begrepp <br> Diagnos 2 <br> Blandade övningar                                | <br> 120 <br> 122 <br> 123 <br>126-129 |
 | 50    | Prov (måndag) <br> Provgenomgång                                                                              |                                        |
+| 51    | Mer info kommer                                                                                               |                                        |
 
 [ps]: https://www.youtube.com/watch?v=6qCJoEQokMw
 [pur]: https://www.youtube.com/watch?v=Nl_SLmHkVOc
