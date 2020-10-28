@@ -18,8 +18,8 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 | 39    | [Linjära modeller][lm]<br>[Mer om räta linjer][mrl]                                                           | 51-53 <br>54-56                       |
 | 40    | [Linjära ekv. system graf][le1] <br>[Substitutionsmetod][sm]                                                  | 57-59<br> 60-61                       |
 | 41    | Repetition<br> <li>Övningsprov<br><li>Diagnos <br> <li>Blandade övningar <br> <li>Begrepp <br><li>Sant/falskt | <br><br> 77 <br> 78-83 <br> 76 <br>74 |
-| 42    | Repetition                                                                                                    |                                       |
-| 43    | Prov kap 1                                                                                                    |                                       |
+| 42    | <b>Repetition </b>                                                                                            |                                       |
+| 43    | <b>Prov kap 1</b>                                                                                             | 8-61 (se ovan för mer detaljer)       |
 
 [bf]: https://www.youtube.com/watch?v=13uugppncbI
 [au]: https://www.youtube.com/watch?v=ypra1GxWc4M
