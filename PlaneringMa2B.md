@@ -5,21 +5,38 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 - [Algebra och linjära modeller](#algebra-och-linjära-modeller-v35-43)
 - [Algebra och icke-linjära modeller](#algebra-och-icke-linjära-modeller-v45-51)
 
+<!-- Behöver fixa denna sektion-->
+
 ## Algebra och linjära modeller v35-43
 
 | Vecka | Avsnitt                                                                                                       | Sidor                                 |
 | ----- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
-| 35    | [Naturliga tal][nt] <br>                                                                                      | 8-10<br>                              |
-| 36    | [Räkneordning][ro] <br>[Primtal & delbarhet][pd]                                                              | 11-13<br>14-16                        |
-| 37    | [Högstadiematte 1][h1]<br>[Högstadiematte 2][h2]<br>[Högstadiematte 3][h3]                                    |                                       |
-| 38    | [Decimalform][df] <br> [Multi/div decimaltal][md]<br>[Negativa tal][nt] <br>                                  | 17-18 <br> 20-21 <br>22-25 <br>       |
-| 39    | [Tal i bråkform][tb]<br>[Förläng/förkorta bråk][fb] <br> [Mult/div bråk][mdb]                                 | 26-27, s32-33<br>35-39<br>40-43       |
-| 40    | [Potensform & potenslagar][pl] <br>[Grundpotensform & enhetsbyten & prefix][gp]                               | 44-47 <br> 48-53                      |
-| 41    | [Problemlösning][pl2]                                                                                         | 65-68                                 |
-| 42    | Repetition<br> <li>Övningsprov<br><li>Diagnos <br> <li>Blandade övningar <br> <li>Begrepp <br><li>Sant/falskt | <br><br> 73 <br> 74-77 <br> 72 <br>69 |
-| 43    | Prov kap 1 <br>[Andelen, delen, det hela][p1]                                                                 | 80-83                                 |
+| 35    | [Negativa tal][nt] <br> [Tal i bråkform][bf] <br>[Algebraiska uttryck][au]                                    | 8-10<br> 11-12<br>13-15               |
+| 36    | [Ekvationer][ek] <br>[Omskrivning av formler][of] <br>                                                        | 16-19 <br> 20                         |
+| 37    | [Koordinatsys. & funk.][ks]<br>[Funkt. forts. & Geogebra][ks2]                                                | 21-25 <br> 28-34                      |
+| 38    | [Räta linje][rl1] <br> [Formel lutning][fl]<br>[Parall. & vinkelrät][pv] <br>                                 | 35-36 <br> 41-44 <br>46-49 <br>       |
+| 39    | [Linjära modeller][lm]<br>[Mer om räta linjer][mrl]                                                           | 51-53 <br>54-56                       |
+| 40    | [Linjära ekv. system graf][le1] <br>[Substitutionsmetod][sm]                                                  | 57-59<br> 60-61                       |
+| 41    | Repetition<br> <li>Övningsprov<br><li>Diagnos <br> <li>Blandade övningar <br> <li>Begrepp <br><li>Sant/falskt | <br><br> 77 <br> 78-83 <br> 76 <br>74 |
+| 42    | Repetition                                                                                                    |                                       |
+| 43    | Prov kap 1                                                                                                    |                                       |
 
-## Procent v45-51
+[bf]: https://www.youtube.com/watch?v=13uugppncbI
+[au]: https://www.youtube.com/watch?v=ypra1GxWc4M
+[nt]: https://www.youtube.com/watch?v=-PG5WYuPE_A
+[ek]: https://www.youtube.com/watch?v=eFlKu4h4Q9s
+[of]: https://www.youtube.com/watch?v=CoaZAWiaJcQ
+[ks]: https://www.youtube.com/watch?v=2q9a9u6MkLU
+[ks2]: https://www.youtube.com/watch?v=LkKCVWIuAh4
+[rl1]: https://www.youtube.com/watch?v=Q0YfgPYH_us
+[fl]: https://www.youtube.com/watch?v=P8poFBCXT4E
+[pv]: https://www.youtube.com/watch?v=DPY3emWBPdQ
+[lm]: https://www.youtube.com/watch?v=D24SiHR4wnA
+[mrl]: https://www.youtube.com/watch?v=HRl0S-g54kg
+[le1]: https://www.youtube.com/watch?v=zX6aPpTkocA
+[sm]: https://www.youtube.com/watch?v=KG1Hhyi-L1s
+
+## Algebra och icke-linjära modeller v45-51
 
 | Vecka | Avsnitt                                                                                                      | Sidor                                  |
 | ----- | ------------------------------------------------------------------------------------------------------------ | -------------------------------------- |

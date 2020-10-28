@@ -13,7 +13,7 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 | 36    | [Räkneordning][ro] <br>[Primtal & delbarhet][pd]                                                              | 11-13<br>14-16                        |
 | 37    | [Högstadiematte 1][h1]<br>[Högstadiematte 2][h2]<br>[Högstadiematte 3][h3]                                    |                                       |
 | 38    | [Decimalform][df] <br> [Multi/div decimaltal][md]<br>[Negativa tal][nt] <br>                                  | 17-18 <br> 20-21 <br>22-25 <br>       |
-| 39    | [Tal i bråkform][tb]<br>[Förläng/förkorta bråk][fb] <br> [Mult/div bråk][mdb]                                 | 26-27, s32-33<br>35-39<br>40-43       |
+| 39    | [Tal i bråkform][tb]<br>[Förläng/förkorta bråk][fb] <br> [Mult/div bråk][mdb]                                 | 26-27, 32-33<br>35-39<br>40-43        |
 | 40    | [Potensform & potenslagar][pl] <br>[Grundpotensform & enhetsbyten & prefix][gp]                               | 44-47 <br> 48-53                      |
 | 41    | [Problemlösning][pl2]                                                                                         | 65-68                                 |
 | 42    | Repetition<br> <li>Övningsprov<br><li>Diagnos <br> <li>Blandade övningar <br> <li>Begrepp <br><li>Sant/falskt | <br><br> 73 <br> 74-77 <br> 72 <br>69 |
