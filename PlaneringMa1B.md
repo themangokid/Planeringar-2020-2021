@@ -1,6 +1,6 @@
 # Matematik 1B planering
 
-Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå vidare till B- och C-uppgifterna. Planeringen nedan innehåller länkar till videoföreläsningar. Sidorna är referade till boken Matematik 5000.
+Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå vidare till B- och C-uppgifterna. Planeringen nedan innehåller länkar till videoföreläsningar. Sidorna är referade till boken Matematik 5000. Titta på videoföreläsningar genom att klicka på länkarna på respektive avsnitt. Titta i förväg för att förbereda dig inför lektionen.
 
 - [Aritmetik](#aritmetik---om-tal-v35-43)
 - [Procent](#procent-v45-51)
@@ -46,7 +46,7 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 | 48    | [Avgifter][av] <br> [Index][in] <br> [Tema: Moms][mm]                                                         | 114-115 <br> 116-119 <br> 106-107      |
 | 49    | <b>Repetition</b> <br> <li> Sant eller falskt <br><li> Begrepp <br><li> Diagnos 2 <br><li> Blandade övningar  | <br> 120 <br> 122 <br> 123 <br>126-129 |
 | 50    | Prov (måndag) <br> Provgenomgång                                                                              |                                        |
-| 51    | Mer info kommer                                                                                               |                                        |
+| 51    | Reserv                                                                                                        |                                        |
 
 [ps]: https://www.youtube.com/watch?v=6qCJoEQokMw
 [pur]: https://www.youtube.com/watch?v=Nl_SLmHkVOc
