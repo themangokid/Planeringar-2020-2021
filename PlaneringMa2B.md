@@ -43,9 +43,9 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 | 45    | Gå igenom prov kap1 <br> [Polynom][po] <br> [Kvadrerings- o konjugatregler][kk]                              | <br> 86-88<br>90-92                    |
 | 46    | [Faktorisera][f] <br> [Andragradsekvationer][ae] <br> [Lösningsformel][pq]                                   | 93-94 <br> 95-97<br>98-102             |
 | 47    | [Tillämp. & prob.lösning][pl] <br> [Andragradsfunktioner][af]                                                | 110-112 <br> 114-120                   |
-| 48    | [Tillämpningar][ti] <br> [Potenser][po] <br> [Potensekv.][pe]                                                | 122-125 <br> 126-128 <br> 129-131      |
+| 48    | [Tillämpningar][ti] <br>                                                                                     | 122-125 <br>                           |
 | 49    | <b>Repetition</b> <br> <li> Sant eller falskt <br><li> Begrepp <br><li> Diagnos 2 <br><li> Blandade övningar | <br> 151 <br> 154 <br> 155 <br>156-161 |
-| 50    | <b>Repetition<br>Prov kap2-2.4 (torsdag) </b>                                                                | <br> 86-131 (se ovan för mer detaljer) |
+| 50    | <b>Repetition<br>Prov kap2-2.4 (onsdag) </b>                                                                 | <br> 86-131 (se ovan för mer detaljer) |
 | 51    | Reserv                                                                                                       |                                        |
 
 [po]: https://www.youtube.com/watch?v=CmlgyE0zorw
