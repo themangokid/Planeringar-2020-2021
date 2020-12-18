@@ -36,7 +36,7 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 [pl2]: https://www.youtube.com/watch?v=rfRYBBKanVo
 [p1]: https://www.youtube.com/watch?v=6E-8PvCU9Ek
 
-## Procent v45-51
+## Procent v45-50
 
 | Vecka | Avsnitt                                                                                                       | Sidor                                  |
 | ----- | ------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
@@ -45,8 +45,7 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 | 47    | Problemlösning <br> [Procentenheter][pe] <br> [Ränta][r] <br> [Amortering][am]                                | 105 <br> 108 <br> 110-111 <br> 112-113 |
 | 48    | [Avgifter][av] <br> [Index][in] <br> [Tema: Moms][mm]                                                         | 114-115 <br> 116-119 <br> 106-107      |
 | 49    | <b>Repetition</b> <br> <li> Sant eller falskt <br><li> Begrepp <br><li> Diagnos 2 <br><li> Blandade övningar  | <br> 120 <br> 122 <br> 123 <br>126-129 |
-| 50    | Prov (måndag) <br> Provgenomgång                                                                              |                                        |
-| 51    | Reserv                                                                                                        |                                        |
+| 50    | Prov (måndag) <br>                                                                                            |                                        |
 
 [ps]: https://www.youtube.com/watch?v=6qCJoEQokMw
 [pur]: https://www.youtube.com/watch?v=Nl_SLmHkVOc
@@ -60,3 +59,28 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 [av]: https://www.youtube.com/watch?v=pZi2yc89_lY
 [in]: https://www.youtube.com/watch?v=EI-hjgkmJvA
 [mm]: https://www.youtube.com/watch?v=c4T-W9IhUd8
+
+## Uttryck och ekvationer v50-v4
+
+| Vecka | Avsnitt                                                                                            | Sidor                                          |
+| ----- | -------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| 50    | [Uttryck][ut] <br>[Vad menas med ekvation?][ek1] <br> [Lösa ekvationer][ek2]                       | 132-134 <br> 137-139 <br> 140-142              |
+| 51    | [Ekvationer med flera x-termer][ek3] <br> [Potensekvationer][pe]                                   | 143-147 <br> 148-149                           |
+| 2     | [Ekvationen x^n = a][pe2] <br> [Beräkning med formler][fo]                                         | 150-151 <br> 152-154                           |
+| 3     | [Ställa upp & tolka ...][fo2] <br> [Lösa ut formler][fo3] <br> [Olikheter][ol] <br> Problemlösning | 155-157 <br> 160-161 <br> 163-165 <br> 166-168 |
+| 4     | [Uttryck & ekv. med paranteser][ek4] <br> [Faktorisera][fa] <br> Ta bort paranteser                | 169-170 <br> 171 <br> 172-173                  |
+| 5     | Beskriva, troliggöra och bevisa <br> <b>Repetition </b>                                            | 174-177 <br> 178-187                           |
+| 6     | Övningsprov <br> <b>Prov kap 3</b> (torsdag)                                                       |                                                |
+
+[ut]: https://www.youtube.com/watch?v=-gwFmKhai5U
+[ek1]: https://www.youtube.com/watch?v=TihqQCYAmtE
+[ek2]: https://www.youtube.com/watch?v=lYDtWwuShJs
+[ek3]: https://www.youtube.com/watch?v=BSp3WqKsXhQ
+[pe]: https://www.youtube.com/watch?v=VovAPkBVJME&t=2s
+[pe2]: https://www.youtube.com/watch?v=6N4bv0WKwJA
+[fo]: https://www.youtube.com/watch?v=8S8GJ2NVdSU
+[fo2]: https://www.youtube.com/watch?v=yCFYAmw5CD0
+[fo3]: https://www.youtube.com/watch?v=9HmtbD46HuI
+[ol]: https://www.youtube.com/watch?v=AipRbiap50o
+[ek4]: https://www.youtube.com/watch?v=u6mNFjndOyA
+[fa]: https://www.youtube.com/watch?v=XaM7dM3wmu4
