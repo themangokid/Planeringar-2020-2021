@@ -70,7 +70,7 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 | 2     | [Ekvationen x<sup>n</sup> = a][pe2] <br> [Beräkning med formler][fo]                                 | 150-151 <br> 152-154                           |
 | 3     | [Ställa upp & tolka ...][fo2] <br> [Lösa ut formler][fo3] <br> [Olikheter][ol] <br> [Prob.lösn.][pl] | 155-157 <br> 160-161 <br> 163-165 <br> 166-168 |
 | 4     | [Uttryck & ekv. med paranteser][ek4] <br> [Faktorisera][fa] <br> [Ta bort paranteser][pa]            | 169-170 <br> 171 <br> 172-173                  |
-| 5     | [Bevis][be] <br> <b>Repetition </b>                                                                  | 174-177 <br> 178-187                           |
+| 5     | [Beskriva, troliggöra och bevisa ][be] <br> <b>[Repetition][sf3] </b>                                | 174-177 <br> 178-187                           |
 | 6     | Övningsprov <br> <b>Prov kap 3</b> (torsdag)                                                         |                                                |
 
 [ut]: https://www.youtube.com/watch?v=-gwFmKhai5U
@@ -88,3 +88,4 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 [pa]: https://www.youtube.com/watch?v=PhHyGdF0pMg
 [be]: https://www.youtube.com/watch?v=W_r4ScQ_DFk
 [pl]: https://www.youtube.com/watch?v=FEa4p3FvcGY
+[sf3]: https://www.youtube.com/watch?v=Y5gAY0s7wTA
