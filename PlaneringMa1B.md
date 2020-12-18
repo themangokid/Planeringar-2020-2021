@@ -63,15 +63,15 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 
 ## Uttryck och ekvationer v50-6
 
-| Vecka | Avsnitt                                                                                            | Sidor                                          |
-| ----- | -------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| 50    | [Uttryck][ut] <br>[Vad menas med ekvation?][ek1] <br> [Lösa ekvationer][ek2]                       | 132-134 <br> 137-139 <br> 140-142              |
-| 51    | [Ekvationer med flera x-termer][ek3] <br> [Potensekvationer][pe]                                   | 143-147 <br> 148-149                           |
-| 2     | [Ekvationen x<sup>n</sup> = a][pe2] <br> [Beräkning med formler][fo]                               | 150-151 <br> 152-154                           |
-| 3     | [Ställa upp & tolka ...][fo2] <br> [Lösa ut formler][fo3] <br> [Olikheter][ol] <br> Problemlösning | 155-157 <br> 160-161 <br> 163-165 <br> 166-168 |
-| 4     | [Uttryck & ekv. med paranteser][ek4] <br> [Faktorisera][fa] <br> [Ta bort paranteser][pa]          | 169-170 <br> 171 <br> 172-173                  |
-| 5     | [Bevis][be] <br> <b>Repetition </b>                                                                | 174-177 <br> 178-187                           |
-| 6     | Övningsprov <br> <b>Prov kap 3</b> (torsdag)                                                       |                                                |
+| Vecka | Avsnitt                                                                                              | Sidor                                          |
+| ----- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| 50    | [Uttryck][ut] <br>[Vad menas med ekvation?][ek1] <br> [Lösa ekvationer][ek2]                         | 132-134 <br> 137-139 <br> 140-142              |
+| 51    | [Ekvationer med flera x-termer][ek3] <br> [Potensekvationer][pe]                                     | 143-147 <br> 148-149                           |
+| 2     | [Ekvationen x<sup>n</sup> = a][pe2] <br> [Beräkning med formler][fo]                                 | 150-151 <br> 152-154                           |
+| 3     | [Ställa upp & tolka ...][fo2] <br> [Lösa ut formler][fo3] <br> [Olikheter][ol] <br> [Prob.lösn.][pl] | 155-157 <br> 160-161 <br> 163-165 <br> 166-168 |
+| 4     | [Uttryck & ekv. med paranteser][ek4] <br> [Faktorisera][fa] <br> [Ta bort paranteser][pa]            | 169-170 <br> 171 <br> 172-173                  |
+| 5     | [Bevis][be] <br> <b>Repetition </b>                                                                  | 174-177 <br> 178-187                           |
+| 6     | Övningsprov <br> <b>Prov kap 3</b> (torsdag)                                                         |                                                |
 
 [ut]: https://www.youtube.com/watch?v=-gwFmKhai5U
 [ek1]: https://www.youtube.com/watch?v=TihqQCYAmtE
@@ -87,3 +87,4 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 [fa]: https://www.youtube.com/watch?v=XaM7dM3wmu4
 [pa]: https://www.youtube.com/watch?v=PhHyGdF0pMg
 [be]: https://www.youtube.com/watch?v=W_r4ScQ_DFk
+[pl]: https://www.youtube.com/watch?v=FEa4p3FvcGY
