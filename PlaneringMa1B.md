@@ -4,7 +4,7 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 
 - [Aritmetik](#aritmetik---om-tal-v35-43)
 - [Procent](#procent-v45-51)
-- [Uttryck och ekvationer](#uttryck-och-ekvationer-v50-6)
+- [Algebra](#algebra-v50-6)
 
 ## Aritmetik - om tal v35-43
 
@@ -61,7 +61,7 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 [in]: https://www.youtube.com/watch?v=EI-hjgkmJvA
 [mm]: https://www.youtube.com/watch?v=c4T-W9IhUd8
 
-## Uttryck och ekvationer v50-6
+## Algebra v50-6
 
 | Vecka | Avsnitt                                                                                              | Sidor                                          |
 | ----- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
@@ -70,7 +70,7 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 | 2     | [Ekvationen x<sup>n</sup> = a][pe2] <br> [Beräkning med formler][fo]                                 | 150-151 <br> 152-154                           |
 | 3     | [Ställa upp & tolka ...][fo2] <br> [Lösa ut formler][fo3] <br> [Olikheter][ol] <br> [Prob.lösn.][pl] | 155-157 <br> 160-161 <br> 163-165 <br> 166-168 |
 | 4     | [Uttryck & ekv. med paranteser][ek4] <br> [Faktorisera][fa] <br> [Ta bort paranteser][pa]            | 169-170 <br> 171 <br> 172-173                  |
-| 5     | [Beskriva, troliggöra och bevisa ][be] <br> <b>[Repetition][sf3] </b>                                | 174-177 <br> 178-187                           |
+| 5     | [Beskriva, troliggöra och bevisa][be] <br> <b>[Repetition][sf3] </b>                                 | 174-177 <br> 178-187                           |
 | 6     | Övningsprov <br> <b>Prov kap 3</b> (torsdag)                                                         |                                                |
 
 [ut]: https://www.youtube.com/watch?v=-gwFmKhai5U
