@@ -62,22 +62,40 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 
 | Vecka | Avsnitt                                                                                                      | Sidor                                  |
 | ----- | ------------------------------------------------------------------------------------------------------------ | -------------------------------------- |
-| 50    | [Potenser][po2] <br> Potensekv. o rationella exponenter                                                      | 127-128 <br> 129-131                   |
-| 51    | Exponentialfunktioner <br> Ekv. 10<sup>x</sup>=b & logaritmer                                                | 132-133 <br> 135-137                   |
-| 2     | Logaritmlagar                                                                                                | Övningar på classroom                  |
-| 3     | Ekvationen a<sup>x</sup> = b <br> Tillämp. o prob.lösn                                                       | 138-139 <br> 140-144                   |
+| 50    | [Potenser][po2] <br> [Potensekv. o rationella exponenter][po3]                                               | 127-128 <br> 129-131                   |
+| 51    | [Exponentialfunktioner][ex1] <br> [Ekv. 10<sup>x</sup>=b & logaritmer][lg1]                                  | 132-133 <br> 135-137                   |
+| 2     | [Logaritmlagar][lg2]                                                                                         | Övningar på classroom                  |
+| 3     | [Ekvationen a<sup>x</sup> = b][ax2] <br> Tillämp. o prob.lösn                                                | 138-139 <br> 140-144                   |
 | 4     | <b>Repetition</b> <br> <li> Sant eller falskt <br><li> Begrepp <br><li> Diagnos 2 <br><li> Blandade övningar | <br> 151 <br> 154 <br> 155 <br>156-161 |
 | 5     | Prov kap 2 (onsdag) <br> Gå igenom prov                                                                      |                                        |
 
 [po2]: https://www.youtube.com/watch?v=jjSAVPiviHE
+[po3]: https://www.youtube.com/watch?v=A4GO2M9Dm_Y
+[ex1]: https://www.youtube.com/watch?v=ydShr-xIyv8
+[lg1]: https://www.youtube.com/watch?v=-5Fwofjv8-I
+[lg2]: https://www.youtube.com/watch?v=-BOhNKdEuSc
+[ax2]: https://www.youtube.com/watch?v=JOnF8Gdj8AY
 
 ## Geometri v5-
 
-| Vecka | Avsnitt                                                                                                   | Sidor                                  |
-| ----- | --------------------------------------------------------------------------------------------------------- | -------------------------------------- |
-| 6     | Vinklar o vinkelsumma <br> Yttervinkelsatsen                                                              | 164-166 <br> 167-168                   |
-| 8     | Randvinklar o medelpunktsvinklar <br> Likformiga månghörningar <br> Topptriangelsats o transversalsats    | 170-173 <br> 174-176 <br> 178-181      |
-| 9     | Kongruens <br> Area o volymskala <br> Bevis med likformighet                                              | 182-184 <br> 185-187 <br> 190-191      |
-| 10    | Pythagoras sats <br> Avståndsformeln <br> Mittpunktsformeln                                               | 192-195 <br> 196-197 <br> 198-199      |
-| 11    | <b>Repetition</b> <br> <li> Sammanfattning <br><li> Begrepp <br><li> Diagnos 3 <br><li> Blandade övningar | 200-201 <br> 202 <br> 203 <br> 204-209 |
+| Vecka | Avsnitt                                                                                                     | Sidor                                  |
+| ----- | ----------------------------------------------------------------------------------------------------------- | -------------------------------------- |
+| 6     | [Vinklar o vinkelsumma][vi1] <br> [Yttervinkelsatsen][yt1]                                                  | 164-166 <br> 167-168                   |
+| 8     | [Randvink. o medelpkts.vink.][rv1] <br>[Likf. månghörningar][lf1]<br>[Topptriangel- o transversalsats][tp1] | 170-173 <br> 174-176 <br> 178-181      |
+| 9     | [Kongruens][ko1] <br> [Area o volymskala][av1] <br> [Bevis med likformighet][be1]                           | 182-184 <br> 185-187 <br> 190-191      |
+| 10    | [Pythagoras sats][py1] <br> [Avståndsformeln][av1] <br> [Mittpunktsformeln][mp1]                            | 192-195 <br> 196-197 <br> 198-199      |
+| 11    | <b>Repetition</b> <br><li>[Sammanfattning][sf3]<br><li>Begrepp<br><li> Diagnos 3 <br><li> Blandade övningar | 200-201 <br> 202 <br> 203 <br> 204-209 |
 | 12    |
+
+[vi1]: https://www.youtube.com/watch?v=z0eoFzEwLPA
+[yt1]: https://www.youtube.com/watch?v=e0Om61V47Zw
+[rv1]: https://www.youtube.com/watch?v=dvU2lkewmOU
+[lf1]: https://www.youtube.com/watch?v=-rwD2vaEFF4
+[tp1]: https://www.youtube.com/watch?v=FGVIkAIIrRU
+[ko1]: https://www.youtube.com/watch?v=Agg1wq_nkGk
+[av1]: https://www.youtube.com/watch?v=-yN2m850L8Q
+[be1]: https://www.youtube.com/watch?v=WAE5htlZUMA
+[py1]: https://www.youtube.com/watch?v=0BqxOHypxpI
+[av1]: https://www.youtube.com/watch?v=DrTsKgHg7ng
+[mp1]: https://www.youtube.com/watch?v=gFPzbwlXyQw
+[sf3]: https://www.youtube.com/watch?v=fs_wG2i0eHg
