@@ -3,8 +3,8 @@
 Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå vidare till B- och C-uppgifterna. Planeringen nedan innehåller länkar till videoföreläsningar. Sidorna är referade till boken Matematik 5000. Titta på videoföreläsningar genom att klicka på länkarna på respektive avsnitt. Titta i förväg för att förbereda dig inför lektionen.
 
 - [Algebra och linjära modeller](#algebra-och-linjära-modeller-v35-43)
-- [Algebra och icke-linjära modeller (del1)](<#algebra-och-icke-linjära-modeller-(del1)-v45-50>)
-- [Algebra och icke-linjära modeller (del2)](<#algebra-och-icke-linjära-modeller-(del2)-v45-50>)
+- [Algebra och icke-linjära modeller (del1)](#algebra-och-icke-linjära-modeller-del1-v45-50)
+- [Algebra och icke-linjära modeller (del2)](#algebra-och-icke-linjära-modeller-del2-v50-5)
 - [Geometri](#geometri-v5-12)
 
 ## Algebra och linjära modeller v35-43
@@ -36,7 +36,7 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 [le1]: https://www.youtube.com/watch?v=zX6aPpTkocA
 [sm]: https://www.youtube.com/watch?v=KG1Hhyi-L1s
 
-## Algebra och icke-linjära modeller (del1) v45-50
+## Algebra och icke linjära modeller (del1) v45-50
 
 | Vecka | Avsnitt                                                                                                      | Sidor                                  |
 | ----- | ------------------------------------------------------------------------------------------------------------ | -------------------------------------- |
@@ -58,7 +58,7 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 [po]: https://www.youtube.com/watch?v=jjSAVPiviHE
 [pe]: https://www.youtube.com/watch?v=VovAPkBVJME
 
-## Algebra och icke-linjära modeller (del2) v50-5
+## Algebra och icke linjära modeller (del2) v50-5
 
 | Vecka | Avsnitt                                                                                                      | Sidor                                  |
 | ----- | ------------------------------------------------------------------------------------------------------------ | -------------------------------------- |
