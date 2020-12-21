@@ -3,9 +3,9 @@
 Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå vidare till B- och C-uppgifterna. Planeringen nedan innehåller länkar till videoföreläsningar. Sidorna är referade till boken Matematik 5000. Titta på videoföreläsningar genom att klicka på länkarna på respektive avsnitt. Titta i förväg för att förbereda dig inför lektionen.
 
 - [Algebra och linjära modeller](#algebra-och-linjära-modeller-v35-43)
-- [Algebra och icke-linjära modeller](<#algebra-och-icke-linjära-modeller-(del1)-v45-50>)
-
-<!-- Behöver fixa denna sektion-->
+- [Algebra och icke-linjära modeller (del1)](<#algebra-och-icke-linjära-modeller-(del1)-v45-50>)
+- [Algebra och icke-linjära modeller (del2)](<#algebra-och-icke-linjära-modeller-(del2)-v45-50>)
+- [Geometri](#geometri-v5-12)
 
 ## Algebra och linjära modeller v35-43
 
@@ -76,7 +76,7 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 [lg2]: https://www.youtube.com/watch?v=-BOhNKdEuSc
 [ax2]: https://www.youtube.com/watch?v=JOnF8Gdj8AY
 
-## Geometri v5-
+## Geometri v5-12
 
 | Vecka | Avsnitt                                                                                                     | Sidor                                  |
 | ----- | ----------------------------------------------------------------------------------------------------------- | -------------------------------------- |
@@ -85,7 +85,7 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 | 9     | [Kongruens][ko1] <br> [Area o volymskala][av1] <br> [Bevis med likformighet][be1]                           | 182-184 <br> 185-187 <br> 190-191      |
 | 10    | [Pythagoras sats][py1] <br> [Avståndsformeln][av1] <br> [Mittpunktsformeln][mp1]                            | 192-195 <br> 196-197 <br> 198-199      |
 | 11    | <b>Repetition</b> <br><li>[Sammanfattning][sf3]<br><li>Begrepp<br><li> Diagnos 3 <br><li> Blandade övningar | 200-201 <br> 202 <br> 203 <br> 204-209 |
-| 12    |
+| 12    | Prov (onsdag) <br> Gå igenom prov                                                                           |                                        |
 
 [vi1]: https://www.youtube.com/watch?v=z0eoFzEwLPA
 [yt1]: https://www.youtube.com/watch?v=e0Om61V47Zw
@@ -96,6 +96,6 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 [av1]: https://www.youtube.com/watch?v=-yN2m850L8Q
 [be1]: https://www.youtube.com/watch?v=WAE5htlZUMA
 [py1]: https://www.youtube.com/watch?v=0BqxOHypxpI
-[av1]: https://www.youtube.com/watch?v=DrTsKgHg7ng
+[av2]: https://www.youtube.com/watch?v=DrTsKgHg7ng
 [mp1]: https://www.youtube.com/watch?v=gFPzbwlXyQw
 [sf3]: https://www.youtube.com/watch?v=fs_wG2i0eHg
