@@ -62,14 +62,14 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 
 | Vecka | Avsnitt                                                                                                      | Sidor                                  |
 | ----- | ------------------------------------------------------------------------------------------------------------ | -------------------------------------- |
-| 50    | [Potenser][po] <br> Potensekv. o rationella exponenter                                                       | 127-128 <br> 129-131                   |
+| 50    | [Potenser][po2] <br> Potensekv. o rationella exponenter                                                      | 127-128 <br> 129-131                   |
 | 51    | Exponentialfunktioner <br> Ekv. 10<sup>x</sup>=b & logaritmer                                                | 132-133 <br> 135-137                   |
 | 2     | Logaritmlagar                                                                                                | Övningar på classroom                  |
 | 3     | Ekvationen a<sup>x</sup> = b <br> Tillämp. o prob.lösn                                                       | 138-139 <br> 140-144                   |
 | 4     | <b>Repetition</b> <br> <li> Sant eller falskt <br><li> Begrepp <br><li> Diagnos 2 <br><li> Blandade övningar | <br> 151 <br> 154 <br> 155 <br>156-161 |
 | 5     | Prov kap 2 (onsdag) <br> Gå igenom prov                                                                      |                                        |
 
-[po]: https://www.youtube.com/watch?v=jjSAVPiviHE
+[po2]: https://www.youtube.com/watch?v=jjSAVPiviHE
 
 ## Geometri v5-
 
