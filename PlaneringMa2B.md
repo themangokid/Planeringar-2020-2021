@@ -3,7 +3,7 @@
 Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå vidare till B- och C-uppgifterna. Planeringen nedan innehåller länkar till videoföreläsningar. Sidorna är referade till boken Matematik 5000. Titta på videoföreläsningar genom att klicka på länkarna på respektive avsnitt. Titta i förväg för att förbereda dig inför lektionen.
 
 - [Algebra och linjära modeller](#algebra-och-linjära-modeller-v35-43)
-- [Algebra och icke-linjära modeller](#algebra-och-icke-linjära-modeller-v45-51)
+- [Algebra och icke-linjära modeller](<#algebra-och-icke-linjära-modeller-(del1)-v45-50>)
 
 <!-- Behöver fixa denna sektion-->
 
@@ -36,7 +36,7 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 [le1]: https://www.youtube.com/watch?v=zX6aPpTkocA
 [sm]: https://www.youtube.com/watch?v=KG1Hhyi-L1s
 
-## Algebra och icke-linjära modeller v45-51
+## Algebra och icke-linjära modeller (del1) v45-50
 
 | Vecka | Avsnitt                                                                                                      | Sidor                                  |
 | ----- | ------------------------------------------------------------------------------------------------------------ | -------------------------------------- |
@@ -46,7 +46,6 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 | 48    | [Tillämpningar][ti] <br>                                                                                     | 122-125 <br>                           |
 | 49    | <b>Repetition</b> <br> <li> Sant eller falskt <br><li> Begrepp <br><li> Diagnos 2 <br><li> Blandade övningar | <br> 151 <br> 154 <br> 155 <br>156-161 |
 | 50    | <b>Repetition<br>Prov kap2-2.4 (onsdag) </b>                                                                 | <br> 86-131 (se ovan för mer detaljer) |
-| 51    | Reserv                                                                                                       |                                        |
 
 [po]: https://www.youtube.com/watch?v=CmlgyE0zorw
 [kk]: https://www.youtube.com/watch?v=qPqwQqbVLuQ
@@ -58,3 +57,27 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 [ti]: https://www.youtube.com/watch?v=-WFpmSFGPpU
 [po]: https://www.youtube.com/watch?v=jjSAVPiviHE
 [pe]: https://www.youtube.com/watch?v=VovAPkBVJME
+
+## Algebra och icke-linjära modeller (del2) v50-5
+
+| Vecka | Avsnitt                                                                                                      | Sidor                                  |
+| ----- | ------------------------------------------------------------------------------------------------------------ | -------------------------------------- |
+| 50    | [Potenser][po] <br> Potensekv. o rationella exponenter                                                       | 127-128 <br> 129-131                   |
+| 51    | Exponentialfunktioner <br> Ekv. 10<sup>x</sup>=b & logaritmer                                                | 132-133 <br> 135-137                   |
+| 2     | Logaritmlagar                                                                                                | Övningar på classroom                  |
+| 3     | Ekvationen a<sup>x</sup> = b <br> Tillämp. o prob.lösn                                                       | 138-139 <br> 140-144                   |
+| 4     | <b>Repetition</b> <br> <li> Sant eller falskt <br><li> Begrepp <br><li> Diagnos 2 <br><li> Blandade övningar | <br> 151 <br> 154 <br> 155 <br>156-161 |
+| 5     | Prov kap 2 (onsdag) <br> Gå igenom prov                                                                      |                                        |
+
+[po]: https://www.youtube.com/watch?v=jjSAVPiviHE
+
+## Geometri v5-
+
+| Vecka | Avsnitt                                                                                                   | Sidor                                  |
+| ----- | --------------------------------------------------------------------------------------------------------- | -------------------------------------- |
+| 6     | Vinklar o vinkelsumma <br> Yttervinkelsatsen                                                              | 164-166 <br> 167-168                   |
+| 8     | Randvinklar o medelpunktsvinklar <br> Likformiga månghörningar <br> Topptriangelsats o transversalsats    | 170-173 <br> 174-176 <br> 178-181      |
+| 9     | Kongruens <br> Area o volymskala <br> Bevis med likformighet                                              | 182-184 <br> 185-187 <br> 190-191      |
+| 10    | Pythagoras sats <br> Avståndsformeln <br> Mittpunktsformeln                                               | 192-195 <br> 196-197 <br> 198-199      |
+| 11    | <b>Repetition</b> <br> <li> Sammanfattning <br><li> Begrepp <br><li> Diagnos 3 <br><li> Blandade övningar | 200-201 <br> 202 <br> 203 <br> 204-209 |
+| 12    |
