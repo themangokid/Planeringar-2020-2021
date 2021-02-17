@@ -5,7 +5,8 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 - [Kap 1 - Aritmetik](#aritmetik-kap1-v35-43)
 - [Kap 2 - Procent](#procent-kap2-v45-50)
 - [Kap 3 - Algebra](#algebra-kap3-v50-6)
-- [Kap 4 - Geometri, grafer och funktioner](#geometri-grafer-och-funktioner-kap4-och-kap6-v8-13)
+- [Kap 6 - Grafer och funktioner](#grafer-och-proportionalitet-kap6-v8-13)
+- [Kap 4 - Geometri](#geometri-kap4-v15-18)
 
 ## Aritmetik (kap1) v35-43
 
