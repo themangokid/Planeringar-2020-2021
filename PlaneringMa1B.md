@@ -2,12 +2,12 @@
 
 Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå vidare till B- och C-uppgifterna. Planeringen nedan innehåller länkar till videoföreläsningar. Sidorna är referade till boken Matematik 5000. Titta på videoföreläsningar genom att klicka på länkarna på respektive avsnitt. Titta i förväg för att förbereda dig inför lektionen.
 
-- [Aritmetik](<#kap-1---aritmetik---om-tal-v35-43>)
+- [Aritmetik](<#aritmetik-kap1-v35-43>)
 - [Procent](<#procent-kap2-v45-50>)
 - [Algebra](<#algebra-kap3-v50-6>)
 - [Geometri](<#geometri-kap4-v8-13>)
 
-## Kap 1 - Aritmetik - om tal v35-43
+## Aritmetik - om tal (kap1) v35-43
 
 | Vecka | Avsnitt                                                                                                       | Sidor                                 |
 | ----- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
