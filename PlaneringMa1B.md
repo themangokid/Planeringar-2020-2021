@@ -92,7 +92,7 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 [pl]: https://www.youtube.com/watch?v=FEa4p3FvcGY
 [sf3]: https://www.youtube.com/watch?v=Y5gAY0s7wTA
 [oa]: https://www.youtube.com/watch?v=ptM4SgWyrFA
-[ovnprov]: https://classroom.google.com/w/MTQyOTgzMzEzNDQz/t/all
+[ovnprov]: https://drive.google.com/file/d/1QVukcfbXuxXzMEmCxSbgMtuQ0UiNpoJj/view?usp=sharing
 [are]: https://www.youtube.com/watch?v=IWsqEhfZG3c
 
 ## Geometri (kap4) v8-13
