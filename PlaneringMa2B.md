@@ -99,3 +99,15 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 [av2]: https://www.youtube.com/watch?v=DrTsKgHg7ng
 [mp1]: https://www.youtube.com/watch?v=gFPzbwlXyQw
 [sf3]: https://www.youtube.com/watch?v=fs_wG2i0eHg
+
+## Statistitk v13-16
+
+| Vecka | Avsnitt                                                                   | Sidor                             |
+| ----- | ------------------------------------------------------------------------- | --------------------------------- |
+| 13    | [Sammanställning av data][sm4] <br> [Population, stickprovv o urval][sp4] | 164-166 <br> 167-168              |
+| 15    | [Felkällor ...][rv1] <br>[Läges- och spridningsmått][lf1]                 | 170-173 <br> 174-176 <br> 178-181 |
+
+[sm4]: https://www.youtube.com/watch?v=oyfHp_T_RAE
+[sp4]: https://www.youtube.com/watch?v=CQx-wxtUrVU
+[fk4]: https://www.youtube.com/watch?v=hgZjdqH20k8
+[ls4]: https://www.youtube.com/watch?v=J7-1PBkewCc
