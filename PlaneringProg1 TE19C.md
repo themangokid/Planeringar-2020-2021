@@ -7,17 +7,22 @@
 
 ## Räkna med Python v35-45
 
-| Vecka | Avsnitt                                | 
-| ----- | -------------------------------------- | 
-| 35    | Syntax, variabler, numeriska literaler | 
-| 36    | If-sats                                | 
-| 37    | If-sats                                | 
-| 38    | For-sats                               | 
-| 39    | For-sats                               | 
-| 40    | While-sats                             | 
-| 41    | While-sats                             | 
-| 42    | Laboration 1                           |                                 
-| 43    | Laboration 1                           | 
+| Vecka | Avsnitt                                | Resurser                      |
+| ----- | -------------------------------------- | ----------------------------- |
+| 35    | Syntax, variabler, numeriska literaler | [Föreläsning][l1]             |
+| 36    | If-sats                                | [Föreläsning][l2], [kod][if1] |
+| 37    | If-sats                                | [Kod][if2]                    |
+| 38    | For-sats                               |                               |
+| 39    | For-sats                               |                               |
+| 40    | While-sats                             |                               |
+| 41    | While-sats                             |                               |
+| 42    | Laboration 1                           |                               |
+| 43    | Laboration 1                           |                               |
+
+[l1]: https://drive.google.com/file/d/1AwGiwK_n90ywnca8YNrJlhT5SAER81KO/view?usp=sharing
+[l2]: https://drive.google.com/file/d/1F_drLh19vetsnAm8oSd50zrnbBHGJTpG/view?usp=sharing
+[if2]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01/blob/master/Rakna%20med%20Python/if_satser2_prov.ipynb
+[if1]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01/blob/master/Rakna%20med%20Python/if_satser1.ipynb
 
 ## Algebra och icke linjära modeller (del1) v45-50
 
