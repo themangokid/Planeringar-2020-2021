@@ -98,20 +98,43 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 
 ## Grafer och proportionalitet (kap6) v8-13
 
-| Vecka | Avsnitt                                                                                 | Sidor                                         |
-| ----- | --------------------------------------------------------------------------------------- | --------------------------------------------- |
-| 8     | [Koordinatsystem][gb1] <br> [Formel, värdetabell o graf][fo]                            | 300-301 <br> 302-305 <br>                     |
-| 9     | [Tolka grafer][fo] <br> [Proportionalitet][gb1] <br> [Geogebra][fo] <br> [Funktion][fo] | 307-309 <br>310-312 <br> 313-315 <br> 316-319 |
-| 10    | [Linjära funktioner][gb1] <br> [Olika begrepp][fo] <br> [Exponentialfunktioner][fo]     | 321-324 <br> 325-327 <br> 329-331             |
-| 11    | [Potensfunktioner][gb1] <br> [Grafisk lösning][fo] <br> [Matematiska modeller][fo]      | 332-333 <br> 334-336 <br> 337-339             |
-| 12    | <br> <b>[Repetition][sf3] </b> [Övningsprov][]                                          | 340-345                                       |
-| 13    | <br> <b>Prov kap 6 (måndag) </b>                                                        | 300-345                                       |
+| Vecka | Avsnitt                                                                                   | Sidor                                         |
+| ----- | ----------------------------------------------------------------------------------------- | --------------------------------------------- |
+| 8     | [Koordinatsystem][ks6] <br> [Formel, värdetabell o graf][fv6]                             | 300-301 <br> 302-305 <br>                     |
+| 9     | [Tolka grafer][tf6] <br> [Proportionalitet][p6] <br> [Geogebra][gg6] <br> [Funktion][fb6] | 307-309 <br>310-312 <br> 313-315 <br> 316-319 |
+| 10    | [Linjära funktioner][lf6] <br> [Olika begrepp][ob6] <br> [Exponentialfunktioner][ep6]     | 321-324 <br> 325-327 <br> 329-331             |
+| 11    | [Potensfunktioner][pf6] <br> [Grafisk lösning][gl6] <br> [Matematiska modeller][mm6]      | 332-333 <br> 334-336 <br> 337-339             |
+| 12    | <br> <b>[Repetition][sf6] </b> Övningsprov                                                | 340-345                                       |
+| 13    | <br> <b>Prov kap 6 (måndag) </b>                                                          | 300-345                                       |
+
+[ks6]: https://www.youtube.com/watch?v=oOt8XokFCgc
+[fv6]: https://www.youtube.com/watch?v=_Y_KWtfsChk
+[tf6]: https://www.youtube.com/watch?v=x19yaGRqn_U
+[p6]: https://www.youtube.com/watch?v=2cE7NrEWD2k
+[gg6]: https://www.youtube.com/watch?v=CLRq7MNsIS0
+[fb6]: https://www.youtube.com/watch?v=queekUdH2mo
+[lf6]: https://www.youtube.com/watch?v=FrDUqIl0Bds
+[ob6]: https://www.youtube.com/watch?v=-m0pj0Sxb_E
+[ep6]: https://www.youtube.com/watch?v=mAc7M2zdcX8
+[pf6]: https://www.youtube.com/watch?v=RHaVLiEQoX4
+[gl6]: https://www.youtube.com/watch?v=e2zU2xOr8lU
+[mm6]: https://www.youtube.com/watch?v=lwop09sJ2XU
+[sf6]: https://www.youtube.com/watch?v=l6sWmDheLOc
 
 ## Geometri (kap4) v15-18
 
 | Vecka | Avsnitt                                                                                   | Sidor                             |
 | ----- | ----------------------------------------------------------------------------------------- | --------------------------------- |
-| 15    | [Omkrets och area av en cirkel][cir] <br>[Volymenheter][ve1]<br>[Volym][ek3]              | 196-197 <br> 200-201 <br>202-206  |
-| 16    | <br> [Begränsningsarea][pe] <br>[Geometri och algebra][pe] <br> [Geometri och bevis][gb1] | 208-209 <br> 211-214 <br> 215-217 |
-| 17    | [Pythagoras sats][fo] <br> [Likformighet och skala][fo] <br> Repetition                   | 220-223 <br> 225-227              |
-| 18    | [Övningsprov][]<br><b>Prov kap 4</b>                                                      | <br> 196-227, 235-245             |
+| 15    | [Omkrets och area av en cirkel][oa4] <br>[Volymenheter][ve4]<br>[Volym][vo4]              | 196-197 <br> 200-201 <br>202-206  |
+| 16    | <br> [Begränsningsarea][ba4] <br>[Geometri och algebra][ga4] <br> [Geometri & bevis][gb4] | 208-209 <br> 211-214 <br> 215-217 |
+| 17    | [Pythagoras sats][ps4] <br> [Likformighet och skala][ls4] <br> Repetition                 | 220-223 <br> 225-227              |
+| 18    | Övningsprov<br><b>Prov kap 4</b>                                                          | <br> 190-227, 235-245             |
+
+[oa4]: https://www.youtube.com/watch?v=y8oFRGssHlM
+[ve4]: https://www.youtube.com/watch?v=-RkfGmdWlvM
+[vo4]: https://www.youtube.com/watch?v=mFNAek00XhI
+[ba4]: https://www.youtube.com/watch?v=rxdoKrx4e8E
+[ga4]: https://www.youtube.com/watch?v=ilSZ7Xv9EZU
+[gb4]: https://www.youtube.com/watch?v=1MM3P2Yvcmg
+[ps4]: https://www.youtube.com/watch?v=3iivEnKEJ88
+[ls4]: https://www.youtube.com/watch?v=h-HdltQQPRM
