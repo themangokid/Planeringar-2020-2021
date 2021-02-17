@@ -2,10 +2,10 @@
 
 Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå vidare till B- och C-uppgifterna. Planeringen nedan innehåller länkar till videoföreläsningar. Sidorna är referade till boken Matematik 5000. Titta på videoföreläsningar genom att klicka på länkarna på respektive avsnitt. Titta i förväg för att förbereda dig inför lektionen.
 
-- [Aritmetik](<#aritmetik-kap1-v35-43>)
-- [Procent](<#procent-kap2-v45-50>)
-- [Algebra](<#algebra-kap3-v50-6>)
-- [Geometri](<#geometri-kap4-v8-13>)
+- [Aritmetik](#aritmetik-kap1-v35-43)
+- [Procent](#procent-kap2-v45-50)
+- [Algebra](#algebra-kap3-v50-6)
+- [Geometri](#geometri-kap4-v8-13)
 
 ## Aritmetik (kap1) v35-43
 
@@ -72,7 +72,7 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 | 3     | [Ställa upp & tolka ...][fo2] <br> [Lösa ut formler][fo3] <br> [Olikheter][ol] <br> [Prob.lösn.][pl] | 155-157 <br> 160-161 <br> 163-165 <br> 166-168 |
 | 4     | [Uttryck & ekv. med paranteser][ek4] <br> [Faktorisera][fa] <br> [Ta bort paranteser][pa]            | 169-170 <br> 171 <br> 172-173                  |
 | 5     | [Beskriva, troliggöra och bevisa][be] <br> <b>[Repetition][sf3] </b>                                 | 174-177 <br> 178-187                           |
-| 6     | Övningsprov <br> Omkrets och area <br> Areaenheter                                                   | <br> 190-193 <br> 194                          |
+| 6     | [Övningsprov][ovnprov] <br> [Omkrets och area][oa] <br> [Areaenheter][are]                           | <br> 190-193 <br> 194                          |
 | 8     | <b>Prov </b> (måndag)                                                                                | 132-194                                        |
 
 [ut]: https://www.youtube.com/watch?v=-gwFmKhai5U
@@ -91,6 +91,9 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 [be]: https://www.youtube.com/watch?v=W_r4ScQ_DFk
 [pl]: https://www.youtube.com/watch?v=FEa4p3FvcGY
 [sf3]: https://www.youtube.com/watch?v=Y5gAY0s7wTA
+[oa]: https://www.youtube.com/watch?v=ptM4SgWyrFA
+[ovnprov]: https://classroom.google.com/w/MTQyOTgzMzEzNDQz/t/all
+[are]: https://www.youtube.com/watch?v=IWsqEhfZG3c
 
 ## Geometri (kap4) v8-13
 
