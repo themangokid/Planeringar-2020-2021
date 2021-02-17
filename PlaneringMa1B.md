@@ -5,7 +5,7 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 - [Kap 1 - Aritmetik](#aritmetik-kap1-v35-43)
 - [Kap 2 - Procent](#procent-kap2-v45-50)
 - [Kap 3 - Algebra](#algebra-kap3-v50-6)
-- [Kap 4 - Geometri](#geometri-kap4-v8-13)
+- [Kap 4 - Geometri, grafer och funktioner](#geometri-grafer-och-funktioner-kap4-och-kap6-v8-13)
 
 ## Aritmetik (kap1) v35-43
 
@@ -95,13 +95,22 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 [ovnprov]: https://drive.google.com/file/d/1QVukcfbXuxXzMEmCxSbgMtuQ0UiNpoJj/view?usp=sharing
 [are]: https://www.youtube.com/watch?v=IWsqEhfZG3c
 
-## Geometri (kap4) v8-13
+## Grafer och proportionalitet (kap6) v8-13
 
-| Vecka | Avsnitt                                                                                              | Sidor                                          |
-| ----- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| 8     | [Uttryck][ut] <br>[Vad menas med ekvation?][ek1] <br> [Lösa ekvationer][ek2]                         | 132-134 <br> 137-139 <br> 140-142              |
-| 9     | [Ekvationer med flera x-termer][ek3] <br> [Potensekvationer][pe]                                     | 143-147 <br> 148-149                           |
-| 10    | [Ekvationen x<sup>n</sup> = a][pe2] <br> [Beräkning med formler][fo]                                 | 150-151 <br> 152-154                           |
-| 11    | [Ställa upp & tolka ...][fo2] <br> [Lösa ut formler][fo3] <br> [Olikheter][ol] <br> [Prob.lösn.][pl] | 155-157 <br> 160-161 <br> 163-165 <br> 166-168 |
-| 12    | [Uttryck & ekv. med paranteser][ek4] <br> [Faktorisera][fa] <br> [Ta bort paranteser][pa]            | 169-170 <br> 171 <br> 172-173                  |
-| 13    | [Beskriva, troliggöra och bevisa][be] <br> <b>[Repetition][sf3] </b>                                 | 174-177 <br> 178-187                           |
+| Vecka | Avsnitt                                                                                 | Sidor                                         |
+| ----- | --------------------------------------------------------------------------------------- | --------------------------------------------- |
+| 8     | [Koordinatsystem][gb1] <br> [Formel, värdetabell o graf][fo]                            | 300-301 <br> 302-305 <br>                     |
+| 9     | [Tolka grafer][fo] <br> [Proportionalitet][gb1] <br> [Geogebra][fo] <br> [Funktion][fo] | 307-309 <br>310-312 <br> 313-315 <br> 316-319 |
+| 10    | [Linjära funktioner][gb1] <br> [Olika begrepp][fo] <br> [Exponentialfunktioner][fo]     | 321-324 <br> 325-327 <br> 329-331             |
+| 11    | [Potensfunktioner][gb1] <br> [Grafisk lösning][fo] <br> [Matematiska modeller][fo]      | 332-333 <br> 334-336 <br> 337-339             |
+| 12    | <br> <b>[Repetition][sf3] </b> [Övningsprov][]                                          | 340-345                                       |
+| 13    | <br> <b>Prov kap 6 (måndag) </b>                                                        | 300-345                                       |
+
+## Geometri (kap4) v15-18
+
+| Vecka | Avsnitt                                                                                   | Sidor                             |
+| ----- | ----------------------------------------------------------------------------------------- | --------------------------------- |
+| 15    | [Omkrets och area av en cirkel][cir] <br>[Volymenheter][ve1]<br>[Volym][ek3]              | 196-197 <br> 200-201 <br>202-206  |
+| 16    | <br> [Begränsningsarea][pe] <br>[Geometri och algebra][pe] <br> [Geometri och bevis][gb1] | 208-209 <br> 211-214 <br> 215-217 |
+| 17    | [Pythagoras sats][fo] <br> [Likformighet och skala][fo] <br> Repetition                   | 220-223 <br> 225-227              |
+| 18    | [Övningsprov][]<br><b>Prov kap 4</b>                                                      | <br> 196-227, 235-245             |
