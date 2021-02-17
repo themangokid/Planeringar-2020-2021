@@ -1,6 +1,6 @@
 # Programmering 1 TE19C
 
-- [Algebra och linjära modeller](#räkna-med-python-v35-45)
+- [Räkna med Python](#räkna-med-python-v35-45)
 
 ## Räkna med Python v35-45
 
@@ -14,7 +14,7 @@
 | 40    | While-sats             | [Kod][wh1], [video][vwh1], [w3schools][wwh]              |
 | 41    | While-sats             | [Kod][wh2]                                               |
 | 42    | Rita grafer            | [w3schools][wmp], [kod][ump1], [kod forts.][ump2]        |
-| 43    | Laboration 1           | [Labb][lab2]                                             |
+| 43    | Laboration 1           | [Labb][lab1]                                             |
 | 45    | Laboration 1           |                                                          |
 | 46    | Laborationsprov        | Se till att förstå din laboration                        |
 
