@@ -7,7 +7,7 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 - [Algebra](<#algebra-kap3-v50-6>)
 - [Geometri](<#geometri-kap4-v8-13>)
 
-## Aritmetik - om tal (kap1) v35-43
+## Aritmetik (kap1) v35-43
 
 | Vecka | Avsnitt                                                                                                       | Sidor                                 |
 | ----- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
