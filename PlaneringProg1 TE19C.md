@@ -1,7 +1,11 @@
 # Programmering 1 TE19C
 
+I kursen kommer vi att arbeta mycket med övningarna i [programmeringsövningshäftet][progh].
+
 - [Räkna med Python](#räkna-med-python-v35-45)
 - [Programmera mer](#programmera-mer-v46-51)
+
+[progh]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01/blob/master/Prog1%20Python%20övningsprov.pdf
 
 ## Räkna med Python v35-45
 
@@ -43,13 +47,16 @@
 
 ## Programmera mer v46-51
 
-| Vecka | Avsnitt              | Resurser                                                                  |
-| ----- | -------------------- | ------------------------------------------------------------------------- |
-| 47    | Strängar             | [Presentation][l1], [kod][kst], [w3schools][wst1] [kursolle][kog]         |
-| 48    | Strängar <br> Listor | [w3schools][wst2] <br> [w3schools][wls1], [presentation][pls], [kod][kls] |
-| 49    | Listor               | [w3schools - List comprehension][wlc]                                     |
-| 50    | Funktioner           | [Presentation][pfk], [video][vfk], [kod][kfk]                             |
-| 51    | Funktioner           | [w3schools][wfk]                                                          |
+| Vecka | Avsnitt                                | Resurser                                                                  |
+| ----- | -------------------------------------- | ------------------------------------------------------------------------- |
+| 47    | Strängar                               | [Presentation][l1], [kod][kst], [w3schools][wst1] [kursolle][kog]         |
+| 48    | Strängar <br> Listor                   | [w3schools][wst2] <br> [w3schools][wls1], [presentation][pls], [kod][kls] |
+| 49    | Listor                                 | [w3schools - List comprehension][wlc]                                     |
+| 50    | Funktioner                             | [Presentation][pfk], [video][vfk], [kod][kfk]                             |
+| 51    | Funktioner                             | [w3schools][wfk]                                                          |
+| 2     | Repetition                             | [Övningsprov][ovp]                                                        |
+| 3     | Repetition                             | [Facit uppg 2 & 8][f28], [facit - blackjack][fbj]                         |
+| 4     | Terminsprov (ons - TE19D, tor - TE19C) |                                                                           |
 
 [wst1]: https://www.w3schools.com/python/python_strings.asp
 [kst]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01/blob/master/Mer%20programmering/strings_grund.ipynb
@@ -62,3 +69,6 @@
 [vfk]: https://www.youtube.com/watch?v=NSbOtYzIQI0
 [kfk]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01/blob/master/Mer%20programmering/funktioner.ipynb
 [wfk]: https://www.w3schools.com/python/python_functions.asp
+[ovp]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01/blob/master/Prog1%20Python%20övningsprov.pdf
+[f28]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01/blob/master/Mer%20programmering/facit.ipynb
+[fbj]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01/tree/master/Mer%20programmering/Blackjack
