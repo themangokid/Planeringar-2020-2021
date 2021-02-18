@@ -42,11 +42,22 @@
 
 ## Programmera mer v46-51
 
-| Vecka | Avsnitt  | Resurser                                                          |
-| ----- | -------- | ----------------------------------------------------------------- |
-| 47    | Strängar | [Presentation][l1], [kod][kst], [w3schools][wst1] [kursolle][kog] |
-| 48    | Strängar | [w3schools][wst2]                                                 |
+| Vecka | Avsnitt              | Resurser                                                                  |
+| ----- | -------------------- | ------------------------------------------------------------------------- |
+| 47    | Strängar             | [Presentation][l1], [kod][kst], [w3schools][wst1] [kursolle][kog]         |
+| 48    | Strängar <br> Listor | [w3schools][wst2] <br> [w3schools][wls1], [presentation][pls], [kod][kls] |
+| 49    | Listor               | [w3schools - List comprehension][wlc]                                     |
+| 50    | Funktioner           | [Presentation][pfk], [video][vfk], [kod][kfk]                             |
+| 51    | Funktioner           | [w3schools][wfk]                                                          |
 
 [wst1]: https://www.w3schools.com/python/python_strings.asp
 [kst]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01/blob/master/Mer%20programmering/strings_grund.ipynb
 [wst2]: https://www.w3schools.com/python/python_ref_string.asp
+[wls1]: https://www.w3schools.com/python/python_lists.asp
+[pls]: https://drive.google.com/file/d/1xkl277fnei3i8mWHVruOo-ciCaFYsiUZ/view
+[kls]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01/blob/master/Mer%20programmering/listor.ipynb
+[wlc]: https://www.w3schools.com/python/python_lists_comprehension.asp
+[pfk]: https://docs.google.com/presentation/d/1RIB-_Aj5ti90iL5vrghhLK1KcDiME5ly-0x9kdh7Qrg/edit?usp=sharing
+[vfk]: https://www.youtube.com/watch?v=NSbOtYzIQI0
+[kfk]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01/blob/master/Mer%20programmering/funktioner.ipynb
+[wfk]: https://www.w3schools.com/python/python_functions.asp
