@@ -1,6 +1,6 @@
 # Programmering 1 TE19C
 
-I kursen kommer vi att arbeta mycket med övningarna i [programmeringsövningshäftet][progh]. All kod finns samlat i kursens [Github repo][ghr]
+I kursen kommer vi att arbeta mycket med övningarna i [programmeringsövningshäftet][progh]. Många av dessa övningar används som läxor som lämnas in. Inlämningen är frivillig, men ger mig större underlag när jag sätter omdöme för varje arbetsområde. All kod som gås igenom under lektionerna finns samlat i kursens [Github repo][ghr].
 
 - [Räkna med Python](#räkna-med-python-v35-45)
 - [Programmera mer](#programmera-mer-v46-51)
@@ -73,3 +73,21 @@ I kursen kommer vi att arbeta mycket med övningarna i [programmeringsövningsh�
 [ovp]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01/blob/master/Prog1%20Python%20övningsprov.pdf
 [f28]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01/blob/master/Mer%20programmering/facit.ipynb
 [fbj]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01/tree/master/Mer%20programmering/Blackjack
+
+## Teori v5-6
+
+| Vecka | Avsnitt                           | Resurser                             |
+| ----- | --------------------------------- | ------------------------------------ |
+| 5     | Programmeringens roll i samhället | [Teori][kot], [Boston dynamics][vai] |
+| 6     | Inlämning skrivuppgift            | Se classroom                         |
+
+[kot]: https://www.kursolle.se/prrprr01/moment07.php
+[vai]: https://www.youtube.com/watch?v=uhND7Mvp3f4
+
+## Programmering i verkligheten v6-13
+
+| Vecka | Avsnitt      | Resurser   |
+| ----- | ------------ | ---------- |
+| 6     | Felhantering | [kod][kfh] |
+
+[kfh]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01/blob/master/Programmering%20i%20verkligheten/felhantering.ipynb
