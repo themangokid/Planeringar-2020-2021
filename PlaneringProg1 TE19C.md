@@ -1,11 +1,12 @@
 # Programmering 1 TE19C
 
-I kursen kommer vi att arbeta mycket med övningarna i [programmeringsövningshäftet][progh].
+I kursen kommer vi att arbeta mycket med övningarna i [programmeringsövningshäftet][progh]. All kod finns samlat i kursens [Github repo][ghr]
 
 - [Räkna med Python](#räkna-med-python-v35-45)
 - [Programmera mer](#programmera-mer-v46-51)
 
-[progh]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01/blob/master/Prog1%20Python%20övningsprov.pdf
+[ghr]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01
+[progh]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01/blob/master/Programmeringsovningshafte.pdf
 
 ## Räkna med Python v35-45
 
