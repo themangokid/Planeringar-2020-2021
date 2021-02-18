@@ -1,22 +1,23 @@
 # Programmering 1 TE19C
 
 - [Räkna med Python](#räkna-med-python-v35-45)
+- [Programmera mer](#programmera-mer-v46-51)
 
 ## Räkna med Python v35-45
 
-| Vecka | Avsnitt                | Resurser                                                     |
-| ----- | ---------------------- | ------------------------------------------------------------ |
-| 35    | Syntax, variabler, ... | [Presentation][l1], [kursolle][kog]                          |
-| 36    | If-sats                | [Presentation][l2], [kod][if1], [kursolle][koi]              |
-| 37    | If-sats                | [Kod][if2], [video][cif]                                     |
-| 38    | For-sats               | [w3schools][wsf1], [video][csf], [kod][fo1], [kursolle][kof] |
-| 39    | For-sats               | [Kod][fo2], [kod forts.][fo3]                                |
-| 40    | While-sats             | [Kod][wh1], [video][vwh1], [w3schools][wwh], [kursolle][kof] |
-| 41    | While-sats             | [Kod][wh2]                                                   |
-| 42    | Rita grafer            | [w3schools][wmp], [kod][ump1], [kod forts.][ump2]            |
-| 43    | Laboration 1           | [Labb][lab1]                                                 |
-| 45    | Laboration 1           |                                                              |
-| 46    | Laborationsprov        | Se till att förstå din laboration                            |
+| Vecka | Avsnitt                  | Resurser                                                     |
+| ----- | ------------------------ | ------------------------------------------------------------ |
+| 35    | Syntax, variabler, ...   | [Presentation][l1], [kursolle][kog]                          |
+| 36    | If-sats                  | [Presentation][l2], [kod][if1], [kursolle][koi]              |
+| 37    | If-sats                  | [Kod][if2], [video][cif]                                     |
+| 38    | For-sats                 | [w3schools][wsf1], [video][csf], [kod][fo1], [kursolle][kof] |
+| 39    | For-sats                 | [Kod][fo2], [kod forts.][fo3]                                |
+| 40    | While-sats               | [Kod][wh1], [video][vwh1], [w3schools][wwh], [kursolle][kof] |
+| 41    | While-sats               | [Kod][wh2]                                                   |
+| 42    | Rita grafer              | [w3schools][wmp], [kod][ump1], [kod forts.][ump2]            |
+| 43    | Laboration 1             | [Labb][lab1]                                                 |
+| 45    | Laboration 1             |                                                              |
+| 46    | Laborationsprov (onsdag) | Se till att förstå din laboration                            |
 
 [kog]: https://www.kursolle.se/prrprr01/moment02.php
 [koi]: https://www.kursolle.se/prrprr01/moment03.php
