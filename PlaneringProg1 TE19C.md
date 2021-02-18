@@ -4,6 +4,7 @@ I kursen kommer vi att arbeta mycket med övningarna i [programmeringsövningsh�
 
 - [Räkna med Python](#räkna-med-python-v35-45)
 - [Programmera mer](#programmera-mer-v46-51)
+- [Programmering i verkligheten](#programmering-i-verkligheten-v6-15)
 
 [ghr]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01
 [progh]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01/blob/master/Programmeringsovningshafte.pdf
@@ -84,7 +85,7 @@ I kursen kommer vi att arbeta mycket med övningarna i [programmeringsövningsh�
 [kot]: https://www.kursolle.se/prrprr01/moment07.php
 [vai]: https://www.youtube.com/watch?v=uhND7Mvp3f4
 
-## Programmering i verkligheten v6-13
+## Programmering i verkligheten v6-15
 
 | Vecka | Avsnitt                               | Resurser                                                                           |
 | ----- | ------------------------------------- | ---------------------------------------------------------------------------------- |
@@ -92,7 +93,7 @@ I kursen kommer vi att arbeta mycket med övningarna i [programmeringsövningsh�
 | 8     | Felhantering <br> Filhantering (.txt) | <br>[Video - filhantering][vfih], [kod][kfih]                                      |
 | 9     | Filhantering                          | [Teori][tfih]                                                                      |
 | 10    | Dictionary                            |                                                                                    |
-| 11    | Numpy                                 |                                                                                    |
+| 11    | Numpy och matplotlib                  |                                                                                    |
 | 12    | Pandas                                |                                                                                    |
 | 13    | Dataanalyslabb                        |                                                                                    |
 | 15    | Dataanalyslabb                        |                                                                                    |
@@ -105,3 +106,14 @@ I kursen kommer vi att arbeta mycket med övningarna i [programmeringsövningsh�
 [tfih]: https://www.programiz.com/python-programming/file-operation
 
 <!-- [kfih]:  -->
+
+## Slutprojekt
+
+| Vecka | Avsnitt | Resurser |
+| ----- | ------- | -------- |
+| 16    | Projekt |          |
+| 17    | Projekt |          |
+| 18    | Projekt |          |
+| 19    | Projekt |          |
+| 20    | Projekt |          |
+| 21    | Projekt |          |
