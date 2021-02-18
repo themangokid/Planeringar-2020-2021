@@ -86,8 +86,22 @@ I kursen kommer vi att arbeta mycket med övningarna i [programmeringsövningsh�
 
 ## Programmering i verkligheten v6-13
 
-| Vecka | Avsnitt      | Resurser   |
-| ----- | ------------ | ---------- |
-| 6     | Felhantering | [kod][kfh] |
+| Vecka | Avsnitt                               | Resurser                                                                           |
+| ----- | ------------------------------------- | ---------------------------------------------------------------------------------- |
+| 6     | Felhantering                          | [Kod][kfh], [video][vex], [w3schools - try-except][wte], [w3schools - assert][was] |
+| 8     | Felhantering <br> Filhantering (.txt) | <br>[Video - filhantering][vfih], [kod][kfih]                                      |
+| 9     | Filhantering                          | [Teori][tfih]                                                                      |
+| 10    | Dictionary                            |                                                                                    |
+| 11    | Numpy                                 |                                                                                    |
+| 12    | Pandas                                |                                                                                    |
+| 13    | Dataanalyslabb                        |                                                                                    |
+| 15    | Dataanalyslabb                        |                                                                                    |
 
 [kfh]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01/blob/master/Programmering%20i%20verkligheten/felhantering.ipynb
+[vex]: https://www.youtube.com/watch?v=nlCKrKGHSSk
+[wte]: https://www.w3schools.com/python/python_try_except.asp
+[was]: https://www.w3schools.com/python/ref_keyword_assert.asp
+[vfih]: https://www.youtube.com/watch?v=4mX0uPQFLDU
+[tfih]: https://www.programiz.com/python-programming/file-operation
+
+<!-- [kfih]:  -->
