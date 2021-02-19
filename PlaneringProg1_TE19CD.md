@@ -5,6 +5,7 @@ I kursen kommer vi att arbeta mycket med övningarna i [programmeringsövningsh�
 - [Räkna med Python](#räkna-med-python-v35-45)
 - [Programmera mer](#programmera-mer-v46-51)
 - [Programmering i verkligheten](#programmering-i-verkligheten-v6-15)
+- [Slutprojekt](#slutprojekt-v16-21)
 
 [ghr]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01
 [progh]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01/blob/master/Programmeringsovningshafte.pdf
@@ -87,7 +88,7 @@ I kursen kommer vi att arbeta mycket med övningarna i [programmeringsövningsh�
 
 ## Teori v5-6
 
-<details open>
+<details >
 <summary>Klicka för att se planeringen</summary>
 
 | Vecka | Avsnitt                           | Resurser                             |
@@ -128,9 +129,9 @@ I kursen kommer vi att arbeta mycket med övningarna i [programmeringsövningsh�
 
 <!-- [kfih]:  -->
 
-## Slutprojekt
+## Slutprojekt v16-21
 
-<details open>
+<details >
 <summary>Klicka för att se planeringen</summary>
 
 | Vecka | Avsnitt | Resurser |
