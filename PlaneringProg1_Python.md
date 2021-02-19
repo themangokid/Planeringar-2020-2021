@@ -1,4 +1,4 @@
-# Programmering 1 TE19C och TE19D
+# Programmering 1 - Python
 
 I kursen kommer vi att arbeta mycket med övningarna i [programmeringsövningshäftet][progh]. Många av dessa övningar används som läxor som lämnas in. Inlämningen är frivillig, men ger mig större underlag när jag sätter omdöme för varje arbetsområde. All kod som gås igenom under lektionerna finns samlat i kursens [Github repo][ghr]. 
 
