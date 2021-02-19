@@ -59,7 +59,7 @@ All kod som gås igenom under lektionerna finns samlat i kursens [Github repo][g
 
 ## Programmera mer v47-50
 
-<details>
+<details open>
 <summary>Klicka för att se planeringen</summary>
 
 | Vecka | Avsnitt            | Resurser                                                                 |
@@ -70,7 +70,7 @@ All kod som gås igenom under lektionerna finns samlat i kursens [Github repo][g
 | 50    | Palindromuppgift   | [Presentation][pfk], [video][vfk], [kod][kfk]                            |
 | 51    | Upphämtning        | [w3schools][wfk]                                                         |
 | 2-9   | APL                | [Övningsprov][ovp]                                                       |
-| 10    | Repetition         |                                                                          |
+| 10    | Repetition         | Kod                                                                      |
 | 11    | Terminsprov (tors) |                                                                          |
 
 </details>
@@ -79,3 +79,27 @@ All kod som gås igenom under lektionerna finns samlat i kursens [Github repo][g
 [vst]: https://www.youtube.com/watch?v=9Q8BAZffbz8
 [wst1]: https://www.w3schools.com/js/js_string_methods.asp
 [wst2]: https://www.w3schools.com/js/js_strings.asp
+
+## Projekt - IT Cool School
+
+<details>
+<summary>Klicka för att se planeringen</summary>
+
+| Vecka | Avsnitt                                    | Resurser                                                                    |
+| ----- | ------------------------------------------ | --------------------------------------------------------------------------- |
+| 12    | Projektintro <br> Designspec. <br> Sitemap | [Projektbeskrivning][besk] <br> [Designspec exempel][spec]                  |
+| 13    | Design i Figma                             | [Video - Figma][vfig], [video - website design][vfg2], [video - färg][farg] |
+| 15    | Designspec utkast 1 (tors)                 |                                                                             |
+| 16    | Bygga sidan                                |                                                                             |
+| 17    | Bygga sidan                                |                                                                             |
+| 18    | Bygga sidan                                |                                                                             |
+| 19    | Sidan klar                                 |                                                                             |
+| 20    | Videologg                                  |                                                                             |
+
+</details>
+
+[vfig]: https://www.youtube.com/watch?v=FK4YusHIIj0
+[vfg2]: https://www.youtube.com/watch?v=86iL_jrGJZM
+[farg]: https://www.youtube.com/watch?v=e_kdWMmD3z0&t=1s
+[spec]: https://drive.google.com/file/d/18Ru1BPvScOECR_VMoU2oyp4ex85HOblR/view?usp=sharing
+[besk]: https://drive.google.com/file/d/1w1FM1g0y6_ctBlKdBoRQZ3qztIRgLlNp/view?usp=sharing
