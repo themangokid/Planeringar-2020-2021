@@ -9,6 +9,9 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 
 ## Algebra och linjära modeller v35-43
 
+<details >
+<summary>Klicka här för att se planeringen för perioden</summary>
+
 | Vecka | Avsnitt                                                                                                       | Sidor                                 |
 | ----- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
 | 35    | [Negativa tal][nt] <br> [Tal i bråkform][bf] <br>[Algebraiska uttryck][au]                                    | 8-10<br> 11-12<br>13-15               |
@@ -36,7 +39,12 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 [le1]: https://www.youtube.com/watch?v=zX6aPpTkocA
 [sm]: https://www.youtube.com/watch?v=KG1Hhyi-L1s
 
+</details>
+
 ## Algebra och icke linjära modeller (del1) v45-50
+
+<details >
+<summary>Klicka här för att se planeringen för perioden</summary>
 
 | Vecka | Avsnitt                                                                                                      | Sidor                                  |
 | ----- | ------------------------------------------------------------------------------------------------------------ | -------------------------------------- |
@@ -58,7 +66,11 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 [po]: https://www.youtube.com/watch?v=jjSAVPiviHE
 [pe]: https://www.youtube.com/watch?v=VovAPkBVJME
 
+</details>
+
 ## Algebra och icke linjära modeller (del2) v50-5
+<details >
+<summary>Klicka här för att se planeringen för perioden</summary>
 
 | Vecka | Avsnitt                                                                                                      | Sidor                                  |
 | ----- | ------------------------------------------------------------------------------------------------------------ | -------------------------------------- |
@@ -69,6 +81,8 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 | 4     | <b>Repetition</b> <br> <li> Sant eller falskt <br><li> Begrepp <br><li> Diagnos 2 <br><li> Blandade övningar | <br> 151 <br> 154 <br> 155 <br>156-161 |
 | 5     | Prov kap 2 (onsdag) <br> Gå igenom prov                                                                      |                                        |
 
+</details>
+
 [po2]: https://www.youtube.com/watch?v=jjSAVPiviHE
 [po3]: https://www.youtube.com/watch?v=A4GO2M9Dm_Y
 [ex1]: https://www.youtube.com/watch?v=ydShr-xIyv8
@@ -77,6 +91,8 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 [ax2]: https://www.youtube.com/watch?v=JOnF8Gdj8AY
 
 ## Geometri v5-12
+<details open>
+<summary>Klicka här för att se planeringen för perioden</summary>
 
 | Vecka | Avsnitt                                                                                            | Sidor                                      |
 | ----- | -------------------------------------------------------------------------------------------------- | ------------------------------------------ |
@@ -86,6 +102,8 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 | 10    | [Pythagoras sats][py1] <br> [Avståndsformeln][av2] <br> [Mittpunktsformeln][mp1]                   | 192-195 <br> 196-197 <br> 198-199          |
 | 11    | <b>Repetition</b><br><li>[Sammanfattn.][sf3]<br><li>Begrepp<br><li>Diagnos 3<br><li> Blandade övn. | <br>200-201 <br> 202 <br> 203 <br> 204-209 |
 | 12    | Prov (onsdag) <br> Gå igenom prov                                                                  |                                            |
+
+</details>
 
 [vi1]: https://www.youtube.com/watch?v=z0eoFzEwLPA
 [yt1]: https://www.youtube.com/watch?v=e0Om61V47Zw
@@ -101,6 +119,8 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 [sf3]: https://www.youtube.com/watch?v=fs_wG2i0eHg
 
 ## Statistitk v13-16
+<details >
+<summary>Klicka här för att se planeringen för perioden</summary>
 
 | Vecka | Avsnitt                                                                   | Sidor                             |
 | ----- | ------------------------------------------------------------------------- | --------------------------------- |
@@ -111,3 +131,6 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 [sp4]: https://www.youtube.com/watch?v=CQx-wxtUrVU
 [fk4]: https://www.youtube.com/watch?v=hgZjdqH20k8
 [ls4]: https://www.youtube.com/watch?v=J7-1PBkewCc
+
+
+</details>

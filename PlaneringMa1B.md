@@ -10,6 +10,9 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 
 ## Aritmetik (kap1) v35-43
 
+<details >
+<summary>Klicka här för att se planeringen för perioden</summary>
+
 | Vecka | Avsnitt                                                                                                       | Sidor                                 |
 | ----- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
 | 35    | [Naturliga tal][nt] <br>                                                                                      | 8-10<br>                              |
@@ -21,6 +24,8 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 | 41    | [Problemlösning][pl2]                                                                                         | 65-68                                 |
 | 42    | Repetition<br> <li>Övningsprov<br><li>Diagnos <br> <li>Blandade övningar <br> <li>Begrepp <br><li>Sant/falskt | <br><br> 73 <br> 74-77 <br> 72 <br>69 |
 | 43    | Prov kap 1 <br>[Andelen, delen, det hela][p1]                                                                 | 80-83                                 |
+
+</details>
 
 [nt]: https://www.youtube.com/watch?v=RBrzl-kbwFI
 [ro]: https://www.youtube.com/watch?v=6AR6vNMzNek
@@ -40,6 +45,9 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 [p1]: https://www.youtube.com/watch?v=6E-8PvCU9Ek
 
 ## Procent (kap2) v45-50
+
+<details>
+<summary>Klicka här för att se planeringen för perioden</summary>
 
 | Vecka | Avsnitt                                                                                                       | Sidor                                  |
 | ----- | ------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
@@ -63,7 +71,12 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 [in]: https://www.youtube.com/watch?v=EI-hjgkmJvA
 [mm]: https://www.youtube.com/watch?v=c4T-W9IhUd8
 
+</details>
+
 ## Algebra (kap3) v50-6
+
+<details open>
+<summary>Klicka här för att se planeringen för perioden</summary>
 
 | Vecka | Avsnitt                                                                                              | Sidor                                          |
 | ----- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
@@ -95,6 +108,8 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 [oa]: https://www.youtube.com/watch?v=ptM4SgWyrFA
 [ovnprov]: https://drive.google.com/file/d/1QVukcfbXuxXzMEmCxSbgMtuQ0UiNpoJj/view?usp=sharing
 [are]: https://www.youtube.com/watch?v=IWsqEhfZG3c
+
+</details>
 
 ## Grafer och proportionalitet (kap6) v8-13
 
