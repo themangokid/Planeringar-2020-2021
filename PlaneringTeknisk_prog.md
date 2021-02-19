@@ -57,3 +57,24 @@ Det här är en blandad kurs med både teknisk specialisering 100p som teknikele
 | 9     | Introduktion slutprojekt     | Preliminärt omdöme                |
 
 </details>
+
+## Slutprojekt (teknik) v9-20
+
+<details >
+<summary>Klicka för att se planeringen</summary>
+
+| Vecka | Avsnitt     | Resurser |
+| ----- | ----------- | -------- |
+| 10    | Slutprojekt |          |
+| 11    | Slutprojekt |          |
+| 12    | Slutprojekt |          |
+| 13    | Slutprojekt |          |
+| 15    | Slutprojekt |          |
+| 16    | Slutprojekt |          |
+| 17    | Slutprojekt |          |
+| 18    | Slutprojekt |          |
+| 19    | Slutprojekt |          |
+| 20    | Slutprojekt |          |
+
+
+</details>
