@@ -3,9 +3,8 @@
 All kod som gås igenom under lektionerna finns samlat i kursens [Github repo][ghr].
 
 - [Grunder i JS](#grunder-i-js-v35-45)
-- [Programmera mer](#programmera-mer-v46-51)
-- [Programmering i verkligheten](#programmering-i-verkligheten-v6-15)
-- [Slutprojekt](#slutprojekt-v16-21)
+- [Programmera mer](#programmera-mer-v47-11)
+- [Slutprojekt](#projekt---it-cool-school-v12-20)
 
 [ghr]: https://github.com/NTI-Kronhus/IT19A-PRRPRR01
 [progh]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01/blob/master/Programmeringsovningshafte.pdf
@@ -57,7 +56,7 @@ All kod som gås igenom under lektionerna finns samlat i kursens [Github repo][g
 [ovp]: https://drive.google.com/file/d/188otN3MK_lRxl5rRgoKnHDI5VXAy4y5H/view?usp=sharing
 [rep]: https://github.com/NTI-Kronhus/IT19A-PRRPRR01/tree/master/Repetition%20v43
 
-## Programmera mer v47-50
+## Programmera mer v47-11
 
 <details open>
 <summary>Klicka för att se planeringen</summary>
@@ -80,7 +79,7 @@ All kod som gås igenom under lektionerna finns samlat i kursens [Github repo][g
 [wst1]: https://www.w3schools.com/js/js_string_methods.asp
 [wst2]: https://www.w3schools.com/js/js_strings.asp
 
-## Projekt - IT Cool School
+## Projekt - IT Cool School v12-20
 
 <details>
 <summary>Klicka för att se planeringen</summary>
