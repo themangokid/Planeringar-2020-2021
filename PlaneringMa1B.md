@@ -143,7 +143,7 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 
 ## Geometri (kap4) v15-18
 
-<details open>
+<details>
 <summary>Klicka här för att se planeringen för perioden</summary>
 
 | Vecka | Avsnitt                                                                                   | Sidor                             |
