@@ -9,7 +9,10 @@ I kursen kommer vi att arbeta mycket med övningarna i [programmeringsövningsh�
 [ghr]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01
 [progh]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01/blob/master/Programmeringsovningshafte.pdf
 
-## Räkna med Python v35-45
+ ## Räkna med Python v35-45
+<details>
+  
+<summary>Klicka för att se planeringen</summary> 
 
 | Vecka | Avsnitt                  | Resurser                                                     |
 | ----- | ------------------------ | ------------------------------------------------------------ |
@@ -24,6 +27,8 @@ I kursen kommer vi att arbeta mycket med övningarna i [programmeringsövningsh�
 | 43    | Laboration 1             | [Labb][lab1]                                                 |
 | 45    | Laboration 1             |                                                              |
 | 46    | Laborationsprov (onsdag) | Se till att förstå din laboration                            |
+
+</details>
 
 [kog]: https://www.kursolle.se/prrprr01/moment02.php
 [koi]: https://www.kursolle.se/prrprr01/moment03.php
@@ -49,6 +54,9 @@ I kursen kommer vi att arbeta mycket med övningarna i [programmeringsövningsh�
 
 ## Programmera mer v46-51
 
+<details>
+<summary>Klicka för att se planeringen</summary>
+
 | Vecka | Avsnitt                                | Resurser                                                                  |
 | ----- | -------------------------------------- | ------------------------------------------------------------------------- |
 | 47    | Strängar                               | [Presentation][l1], [kod][kst], [w3schools][wst1] [kursolle][kog]         |
@@ -59,6 +67,8 @@ I kursen kommer vi att arbeta mycket med övningarna i [programmeringsövningsh�
 | 2     | Repetition                             | [Övningsprov][ovp]                                                        |
 | 3     | Repetition                             | [Facit uppg 2 & 8][f28], [facit - blackjack][fbj]                         |
 | 4     | Terminsprov (ons - TE19D, tor - TE19C) |                                                                           |
+
+</details>
 
 [wst1]: https://www.w3schools.com/python/python_strings.asp
 [kst]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01/blob/master/Mer%20programmering/strings_grund.ipynb
@@ -77,6 +87,9 @@ I kursen kommer vi att arbeta mycket med övningarna i [programmeringsövningsh�
 
 ## Teori v5-6
 
+<details open>
+<summary>Klicka för att se planeringen</summary>
+
 | Vecka | Avsnitt                           | Resurser                             |
 | ----- | --------------------------------- | ------------------------------------ |
 | 5     | Programmeringens roll i samhället | [Teori][kot], [Boston dynamics][vai] |
@@ -85,7 +98,11 @@ I kursen kommer vi att arbeta mycket med övningarna i [programmeringsövningsh�
 [kot]: https://www.kursolle.se/prrprr01/moment07.php
 [vai]: https://www.youtube.com/watch?v=uhND7Mvp3f4
 
+</details>
+
 ## Programmering i verkligheten v6-15
+<details open>
+<summary>Klicka för att se planeringen</summary>
 
 | Vecka | Avsnitt                               | Resurser                                                                           |
 | ----- | ------------------------------------- | ---------------------------------------------------------------------------------- |
@@ -98,6 +115,8 @@ I kursen kommer vi att arbeta mycket med övningarna i [programmeringsövningsh�
 | 13    | Dataanalyslabb                        |                                                                                    |
 | 15    | Dataanalyslabb                        |                                                                                    |
 
+</details>
+
 [kfh]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01/blob/master/Programmering%20i%20verkligheten/felhantering.ipynb
 [vex]: https://www.youtube.com/watch?v=nlCKrKGHSSk
 [wte]: https://www.w3schools.com/python/python_try_except.asp
@@ -105,9 +124,14 @@ I kursen kommer vi att arbeta mycket med övningarna i [programmeringsövningsh�
 [vfih]: https://www.youtube.com/watch?v=4mX0uPQFLDU
 [tfih]: https://www.programiz.com/python-programming/file-operation
 
+
+
 <!-- [kfih]:  -->
 
 ## Slutprojekt
+
+<details open>
+<summary>Klicka för att se planeringen</summary>
 
 | Vecka | Avsnitt | Resurser |
 | ----- | ------- | -------- |
@@ -117,3 +141,5 @@ I kursen kommer vi att arbeta mycket med övningarna i [programmeringsövningsh�
 | 19    | Projekt |          |
 | 20    | Projekt |          |
 | 21    | Projekt |          |
+
+</details>
