@@ -113,6 +113,9 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 
 ## Grafer och proportionalitet (kap6) v8-13
 
+<details open>
+<summary>Klicka här för att se planeringen för perioden</summary>
+
 | Vecka | Avsnitt                                                                                   | Sidor                                         |
 | ----- | ----------------------------------------------------------------------------------------- | --------------------------------------------- |
 | 8     | [Koordinatsystem][ks6] <br> [Formel, värdetabell o graf][fv6]                             | 300-301 <br> 302-305 <br>                     |
@@ -136,7 +139,12 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 [mm6]: https://www.youtube.com/watch?v=lwop09sJ2XU
 [sf6]: https://www.youtube.com/watch?v=l6sWmDheLOc
 
+</details>
+
 ## Geometri (kap4) v15-18
+
+<details open>
+<summary>Klicka här för att se planeringen för perioden</summary>
 
 | Vecka | Avsnitt                                                                                   | Sidor                             |
 | ----- | ----------------------------------------------------------------------------------------- | --------------------------------- |
@@ -153,3 +161,5 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 [gb4]: https://www.youtube.com/watch?v=1MM3P2Yvcmg
 [ps4]: https://www.youtube.com/watch?v=3iivEnKEJ88
 [ls4]: https://www.youtube.com/watch?v=h-HdltQQPRM
+
+</details>
