@@ -5,7 +5,7 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 - [Kap 1 - Aritmetik](#aritmetik-kap1-v35-43)
 - [Kap 2 - Procent](#procent-kap2-v45-50)
 - [Kap 3 - Algebra](#algebra-kap3-v50-6)
-- [Kap 6 - Grafer och funktioner](#grafer-och-proportionalitet-kap6-v8-13)
+- [Kap 6 - Grafer och funktioner](#grafer-och-funktioner-kap6-v8-13)
 - [Kap 4 - Geometri](#geometri-kap4-v15-18)
 
 ## Aritmetik (kap1) v35-43
@@ -75,7 +75,7 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 
 ## Algebra (kap3) v50-6
 
-<details open>
+<details>
 <summary>Klicka här för att se planeringen för perioden</summary>
 
 | Vecka | Avsnitt                                                                                              | Sidor                                          |
@@ -111,7 +111,7 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 
 </details>
 
-## Grafer och proportionalitet (kap6) v8-13
+## Grafer och funktioner (kap6) v8-13
 
 <details open>
 <summary>Klicka här för att se planeringen för perioden</summary>
