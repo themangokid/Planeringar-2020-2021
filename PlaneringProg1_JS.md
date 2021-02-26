@@ -68,8 +68,8 @@ All kod som gås igenom under lektionerna finns samlat i kursens [Github repo][g
 | 49    | Palindromuppgift   | [Teori - strängar metoder][wst1]                                         |
 | 50    | Palindromuppgift   | [Presentation][pfk], [video][vfk], [kod][kfk]                            |
 | 51    | Upphämtning        | [w3schools][wfk]                                                         |
-| 2-9   | APL                | [Övningsprov][ovp]                                                       |
-| 10    | Repetition         | Kod                                                                      |
+| 2-9   | APL                |                                                                          |
+| 10    | Repetition         | Kod, [Övningsprov][ovp2]                                                 |
 | 11    | Terminsprov (tors) |                                                                          |
 
 </details>
@@ -78,6 +78,7 @@ All kod som gås igenom under lektionerna finns samlat i kursens [Github repo][g
 [vst]: https://www.youtube.com/watch?v=9Q8BAZffbz8
 [wst1]: https://www.w3schools.com/js/js_string_methods.asp
 [wst2]: https://www.w3schools.com/js/js_strings.asp
+[ovp2]: https://github.com/NTI-Kronhus/IT19A-PRRPRR01/blob/master/Ovningsprov%20termin.pdf
 
 ## Projekt - IT Cool School v12-20
 
