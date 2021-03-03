@@ -69,6 +69,7 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 </details>
 
 ## Algebra och icke linjära modeller (del2) v50-5
+
 <details >
 <summary>Klicka här för att se planeringen för perioden</summary>
 
@@ -91,6 +92,7 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 [ax2]: https://www.youtube.com/watch?v=JOnF8Gdj8AY
 
 ## Geometri v5-12
+
 <details open>
 <summary>Klicka här för att se planeringen för perioden</summary>
 
@@ -98,8 +100,8 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 | ----- | -------------------------------------------------------------------------------------------------- | ------------------------------------------ |
 | 6     | [Vinklar o vinkelsumma][vi1] <br> [Yttervinkelsatsen][yt1]                                         | 164-166 <br> 167-168                       |
 | 8     | [Randvink. o medelpkts.vink.][rv1] <br>[Likf. månghörningar][lf1]<br>[Topptriangelsats...][tp1]    | 170-173 <br> 174-176 <br> 178-181          |
-| 9     | [Kongruens][ko1] <br> [Area o volymskala][av1] <br> [Bevis med likformighet][be1]                  | 182-184 <br> 185-187 <br> 190-191          |
-| 10    | [Pythagoras sats][py1] <br> [Avståndsformeln][av2] <br> [Mittpunktsformeln][mp1]                   | 192-195 <br> 196-197 <br> 198-199          |
+| 9     | [Kongruens][ko1] <br> [Pythagoras sats][py1] <br> [Avståndsformeln][av2]                           | 182-184 <br> 192-195 <br> 196-197          |
+| 10    | [Mittpunktsformeln][mp1]                                                                           | 198-199                                    |
 | 11    | <b>Repetition</b><br><li>[Sammanfattn.][sf3]<br><li>Begrepp<br><li>Diagnos 3<br><li> Blandade övn. | <br>200-201 <br> 202 <br> 203 <br> 204-209 |
 | 12    | Prov (onsdag) <br> Gå igenom prov                                                                  |                                            |
 
@@ -119,6 +121,7 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 [sf3]: https://www.youtube.com/watch?v=fs_wG2i0eHg
 
 ## Statistitk v13-16
+
 <details >
 <summary>Klicka här för att se planeringen för perioden</summary>
 
@@ -131,6 +134,5 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 [sp4]: https://www.youtube.com/watch?v=CQx-wxtUrVU
 [fk4]: https://www.youtube.com/watch?v=hgZjdqH20k8
 [ls4]: https://www.youtube.com/watch?v=J7-1PBkewCc
-
 
 </details>
