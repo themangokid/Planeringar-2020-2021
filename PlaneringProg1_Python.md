@@ -1,6 +1,6 @@
 # Programmering 1 - Python
 
-I kursen kommer vi att arbeta mycket med övningarna i [programmeringsövningshäftet][progh]. Många av dessa övningar används som läxor som lämnas in. Inlämningen är frivillig, men ger mig större underlag när jag sätter omdöme för varje arbetsområde. All kod som gås igenom under lektionerna finns samlat i kursens [Github repo][ghr]. 
+I kursen kommer vi att arbeta mycket med övningarna i [programmeringsövningshäftet][progh]. Många av dessa övningar används som läxor som lämnas in. Inlämningen är frivillig, men ger mig större underlag när jag sätter omdöme för varje arbetsområde. All kod som gås igenom under lektionerna finns samlat i kursens [Github repo][ghr].
 
 - [Räkna med Python](#räkna-med-python-v35-45)
 - [Programmera mer](#programmera-mer-v46-51)
@@ -10,10 +10,11 @@ I kursen kommer vi att arbeta mycket med övningarna i [programmeringsövningsh�
 [ghr]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01
 [progh]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01/blob/master/Programmeringsovningshafte.pdf
 
- ## Räkna med Python v35-45
+## Räkna med Python v35-45
+
 <details>
   
-<summary>Klicka för att se planeringen</summary> 
+<summary>Klicka för att se planeringen</summary>
 
 | Vecka | Avsnitt                  | Resurser                                                     |
 | ----- | ------------------------ | ------------------------------------------------------------ |
@@ -102,19 +103,20 @@ I kursen kommer vi att arbeta mycket med övningarna i [programmeringsövningsh�
 </details>
 
 ## Programmering i verkligheten v6-15
+
 <details open>
 <summary>Klicka för att se planeringen</summary>
 
-| Vecka | Avsnitt                               | Resurser                                                                           |
-| ----- | ------------------------------------- | ---------------------------------------------------------------------------------- |
-| 6     | Felhantering                          | [Kod][kfh], [video][vex], [w3schools - try-except][wte], [w3schools - assert][was] |
-| 8     | Felhantering <br> Filhantering (.txt) | <br>[Video - filhantering][vfih], [kod][kfih]                                      |
-| 9     | Filhantering                          | [Teori][tfih]                                                                      |
-| 10    | Dictionary                            |                                                                                    |
-| 11    | Numpy och matplotlib                  |                                                                                    |
-| 12    | Pandas                                |                                                                                    |
-| 13    | Dataanalyslabb                        |                                                                                    |
-| 15    | Dataanalyslabb                        |                                                                                    |
+| Vecka | Avsnitt                               | Resurser                                                                                          |
+| ----- | ------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| 6     | Felhantering                          | [Kod][kfh], [video][vex], [w3schools - try-except][wte], [w3schools - assert][was]                |
+| 8     | Felhantering <br> Filhantering (.txt) | <br>[Video - filhantering][vfih], [kod][kfih]                                                     |
+| 9     | Filhantering                          | [Teori][tfih], [filer][filer]                                                                     |
+| 10    | Dictionary                            | [Kod][dckod], [video-dictionary][vdic]                                                            |
+| 11    | Dictionary                            | [w3schools - dictionary][wdic]                                                                    |
+| 12    | Numpy och matplotlib                  | [Kod][knp],[w3schools - numpy][wnp], [w3schools - matplotlib][wmpl], [matplotlib - video][vidmpl] |
+| 13    | Pandas och dataanalys                 | [Kod][kpd], [w3schools - pandas][wpd]                                                             |
+| 15    | Pandas och dataanalys                 | [Video dataanalys][pdvi]                                                                          |
 
 </details>
 
@@ -124,12 +126,21 @@ I kursen kommer vi att arbeta mycket med övningarna i [programmeringsövningsh�
 [was]: https://www.w3schools.com/python/ref_keyword_assert.asp
 [vfih]: https://www.youtube.com/watch?v=4mX0uPQFLDU
 [tfih]: https://www.programiz.com/python-programming/file-operation
-
-
+[dckod]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01/blob/master/Programmering%20i%20verkligheten/dictionary.ipynb
+[filer]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01/tree/master/Programmering%20i%20verkligheten/filer
+[vdic]: https://www.youtube.com/watch?v=XCcpzWs-CI4
+[wdic]: https://www.w3schools.com/python/python_dictionaries.asp
+[wnp]: https://www.w3schools.com/python/numpy/default.asp
+[knp]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01/blob/master/Programmering%20i%20verkligheten/numpy.ipynb
+[kpd]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01/tree/master/Programmering%20i%20verkligheten/dataanalys
+[wpd]: https://www.w3schools.com/python/pandas/default.asp
+[wmpl]: https://www.w3schools.com/python/matplotlib_pyplot.asp
+[pdvi]: https://www.youtube.com/watch?v=a9UrKTVEeZA
+[vidmpl]: https://www.youtube.com/watch?v=UO98lJQ3QGI
 
 <!-- [kfih]:  -->
 
-## Slutprojekt v16-21
+## Dataanalysprojekt v16-21
 
 <details >
 <summary>Klicka för att se planeringen</summary>
