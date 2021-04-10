@@ -95,6 +95,7 @@ All kod som gås igenom under lektionerna finns samlat i kursens [Github repo][g
 | 18    | Bygga sidan                                |                                                                             |
 | 19    | Sidan klar (tor)                           |                                                                             |
 | 20    | Videologg                                  |                                                                             |
+| 21    | Reserv                                     |                                                                             |
 
 </details>
 
