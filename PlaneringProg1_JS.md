@@ -66,10 +66,10 @@ All kod som gås igenom under lektionerna finns samlat i kursens [Github repo][g
 | 47    | Random             | [Presentation][l1], [kod][kst], [w3schools][wst1] [kursolle][kog]        |
 | 48    | Strängar           | [Video - strängar][vst], [kod - strängar][kst], [teori - strängar][wst2] |
 | 49    | Palindromuppgift   | [Teori - strängar metoder][wst1]                                         |
-| 50    | Palindromuppgift   | [Presentation][pfk], [video][vfk], [kod][kfk]                            |
-| 51    | Upphämtning        | [w3schools][wfk]                                                         |
+| 50    | Palindromuppgift   |                                                                          |
+| 51    | Upphämtning        |                                                                          |
 | 2-9   | APL                |                                                                          |
-| 10    | Repetition         | Kod, [Övningsprov][ovp2]                                                 |
+| 10    | Repetition         | [Övningsprov][ovp2]                                                      |
 | 11    | Terminsprov (tors) |                                                                          |
 
 </details>
@@ -89,11 +89,11 @@ All kod som gås igenom under lektionerna finns samlat i kursens [Github repo][g
 | ----- | ------------------------------------------ | --------------------------------------------------------------------------- |
 | 12    | Projektintro <br> Designspec. <br> Sitemap | [Projektbeskrivning][besk] <br> [Designspec exempel][spec]                  |
 | 13    | Design i Figma                             | [Video - Figma][vfig], [video - website design][vfg2], [video - färg][farg] |
-| 15    | Designspec utkast 1 (tors)                 |                                                                             |
-| 16    | Bygga sidan                                |                                                                             |
+| 15    | Designspec                                 |                                                                             |
+| 16    | Designspec klar (tors)                     |                                                                             |
 | 17    | Bygga sidan                                |                                                                             |
 | 18    | Bygga sidan                                |                                                                             |
-| 19    | Sidan klar                                 |                                                                             |
+| 19    | Sidan klar (tor)                           |                                                                             |
 | 20    | Videologg                                  |                                                                             |
 
 </details>
