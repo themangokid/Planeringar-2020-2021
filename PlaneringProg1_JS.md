@@ -58,12 +58,12 @@ All kod som gås igenom under lektionerna finns samlat i kursens [Github repo][g
 
 ## Programmera mer v47-11
 
-<details open>
+<details>
 <summary>Klicka för att se planeringen</summary>
 
 | Vecka | Avsnitt            | Resurser                                                                 |
 | ----- | ------------------ | ------------------------------------------------------------------------ |
-| 47    | Random             | [Presentation][l1], [kod][kst], [w3schools][wst1] [kursolle][kog]        |
+| 47    | Random             | [Presentation][l1], [kod][kst], [w3schools][wst1]       |
 | 48    | Strängar           | [Video - strängar][vst], [kod - strängar][kst], [teori - strängar][wst2] |
 | 49    | Palindromuppgift   | [Teori - strängar metoder][wst1]                                         |
 | 50    | Palindromuppgift   |                                                                          |
@@ -82,7 +82,7 @@ All kod som gås igenom under lektionerna finns samlat i kursens [Github repo][g
 
 ## Projekt - IT Cool School v12-20
 
-<details>
+<details open>
 <summary>Klicka för att se planeringen</summary>
 
 | Vecka | Avsnitt                                    | Resurser                                                                    |
