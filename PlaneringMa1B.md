@@ -6,7 +6,8 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 - [Kap 2 - Procent](#procent-kap2-v45-50)
 - [Kap 3 - Algebra](#algebra-kap3-v50-6)
 - [Kap 6 - Grafer och funktioner](#grafer-och-funktioner-kap6-v8-13)
-- [Kap 4 - Geometri](#geometri-kap4-v15-18)
+- [Kap 4 - Geometri](#geometri-kap4-v15-16)
+- [Kap 5 - Sannolikhetslära och statistik](#sannolikhet-kap5-v17-19)
 
 ## Aritmetik (kap1) v35-43
 
@@ -113,7 +114,7 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 
 ## Grafer och funktioner (kap6) v8-13
 
-<details open>
+<details>
 <summary>Klicka här för att se planeringen för perioden</summary>
 
 | Vecka | Avsnitt                                                                                   | Sidor                                         |
@@ -141,17 +142,15 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 
 </details>
 
-## Geometri (kap4) v15-18
+## Geometri (kap4) v15-17
 
-<details>
+<details open>
 <summary>Klicka här för att se planeringen för perioden</summary>
 
-| Vecka | Avsnitt                                                                                   | Sidor                             |
-| ----- | ----------------------------------------------------------------------------------------- | --------------------------------- |
-| 15    | [Omkrets och area av en cirkel][oa4] <br>[Volymenheter][ve4]<br>[Volym][vo4]              | 196-197 <br> 200-201 <br>202-206  |
-| 16    | <br> [Begränsningsarea][ba4] <br>[Geometri och algebra][ga4] <br> [Geometri & bevis][gb4] | 208-209 <br> 211-214 <br> 215-217 |
-| 17    | [Pythagoras sats][ps4] <br> [Likformighet och skala][ls4] <br> Repetition                 | 220-223 <br> 225-227              |
-| 18    | Övningsprov<br><b>Prov kap 4</b>                                                          | <br> 190-227, 235-245             |
+| Vecka | Avsnitt                                                                                | Sidor                            |
+| ----- | -------------------------------------------------------------------------------------- | -------------------------------- |
+| 15    | [Omkrets och area av en cirkel][oa4] <br>[Volymenheter][ve4]<br>[Volym][vo4]           | 196-197 <br> 200-201 <br>202-206 |
+| 16    | <br>[Geometri och algebra][ga4] <br> [Geometri & bevis][gb4]<br>[Pythagoras sats][ps4] | 211-214 <br> 215-217 <br>220-223 |
 
 [oa4]: https://www.youtube.com/watch?v=y8oFRGssHlM
 [ve4]: https://www.youtube.com/watch?v=-RkfGmdWlvM
@@ -163,3 +162,33 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 [ls4]: https://www.youtube.com/watch?v=h-HdltQQPRM
 
 </details>
+
+## Sannolikhetslära och statistik kap 5 v17-19
+
+<details open>
+<summary>Klicka här för att se planeringen för perioden</summary>
+
+| Vecka | Avsnitt                                                                                                        | Sidor                                        |
+| ----- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| 17    | [Klassiska sannolikhetsmodellen][ksm] <br>[Experimentella sannolikheter][esk]<br>[Försök med två föremål][ftv] | 248-251 <br> 252-253 <br>254-255             |
+| 18    | <br>[Träddiagram][trd] <br> [Beroende ][bh1]<br> [Statistik][st1]<br>[Medelvärde o median][st1]                | 257-260<br> 262-263 <br>267-272 <br> 273-275 |
+
+[ksm]: https://www.youtube.com/watch?v=cECNRf2p5XM
+[esk]: https://www.youtube.com/watch?v=cQGGmMU4aKc
+[ftv]: https://www.youtube.com/watch?v=eNbhhJmUtJQ
+[trd]: https://www.youtube.com/watch?v=zafbX7IDndc
+[st1]: https://www.youtube.com/watch?v=m9dM9y1Mt2I
+[bh1]: https://www.youtube.com/watch?v=9TEudw_wpek
+
+</details>
+
+## Repetition
+
+<details open>
+<summary>Klicka här för att se planeringen för perioden</summary>
+
+| Vecka | Avsnitt           | Sidor |
+| ----- | ----------------- | ----- |
+| 19    | Repetition        |       |
+| 20    | Repetition        |       |
+| 21    | Kursprov (måndag) |       |
