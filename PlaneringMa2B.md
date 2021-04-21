@@ -153,7 +153,7 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 | 17    | Repetition        | Kap 1-4 |
 | 18    | Repetition        | Kap 1-4 |
 | 19    | Repetition        | Kap 1-4 |
-| 20    | Kursprov          |         |
+| 20    | Kursprov (tor)    |         |
 | 21-22 | Inlämningsuppgift |         |
 
 </details>
