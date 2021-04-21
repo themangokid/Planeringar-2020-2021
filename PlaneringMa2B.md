@@ -120,7 +120,7 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 [mp1]: https://www.youtube.com/watch?v=gFPzbwlXyQw
 [sf3]: https://www.youtube.com/watch?v=fs_wG2i0eHg
 
-## Statistitk v13-16
+## Statistitk v13-17
 
 <details >
 <summary>Klicka här för att se planeringen för perioden</summary>
@@ -128,11 +128,32 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 | Vecka | Avsnitt                                                                   | Sidor                             |
 | ----- | ------------------------------------------------------------------------- | --------------------------------- |
 | 13    | [Sammanställning av data][sm4] <br> [Population, stickprovv o urval][sp4] | 164-166 <br> 167-168              |
-| 15    | [Felkällor ...][rv1] <br>[Läges- och spridningsmått][lf1]                 | 170-173 <br> 174-176 <br> 178-181 |
+| 15    | [Felkällor][fk4] <br>[Lägesmått][ls4]                                     | 218-220 <br> 222-226              |
+| 16    | [Några spridningsmått][sp4] <br> [Standardavvikelse][sa4]                 | 228-232 <br> 174-176 <br> 178-181 |
+| 17    | [Normalfördelning][nf4] <br>                                              | 242-246                           |
+| 21-22 | Inlämningsuppgift                                                         |                                   |
 
 [sm4]: https://www.youtube.com/watch?v=oyfHp_T_RAE
 [sp4]: https://www.youtube.com/watch?v=CQx-wxtUrVU
 [fk4]: https://www.youtube.com/watch?v=hgZjdqH20k8
 [ls4]: https://www.youtube.com/watch?v=J7-1PBkewCc
+[sp4]: https://www.youtube.com/watch?v=DMP7AlrGKL0
+[sa4]: https://www.youtube.com/watch?v=eGZSQY0DTxQ
+[nf4]: https://www.youtube.com/watch?v=uRe0unbQrIs
+
+</details>
+
+## Statistitk v13-17
+
+<details >
+<summary>Klicka här för att se planeringen för perioden</summary>
+
+| Vecka | Avsnitt           | Sidor   |
+| ----- | ----------------- | ------- |
+| 17    | Repetition        | Kap 1-4 |
+| 18    | Repetition        | Kap 1-4 |
+| 19    | Repetition        | Kap 1-4 |
+| 20    | Kursprov          |         |
+| 21-22 | Inlämningsuppgift |         |
 
 </details>
