@@ -93,7 +93,7 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 
 ## Geometri v5-12
 
-<details open>
+<details>
 <summary>Klicka här för att se planeringen för perioden</summary>
 
 | Vecka | Avsnitt                                                                                            | Sidor                                      |
@@ -122,7 +122,7 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 
 ## Statistitk v13-17
 
-<details >
+<details open>
 <summary>Klicka här för att se planeringen för perioden</summary>
 
 | Vecka | Avsnitt                                                                   | Sidor                             |
@@ -148,12 +148,11 @@ Rekommenderar att ni börjar göra några A-uppgifter. Känns de för enkla, gå
 <details >
 <summary>Klicka här för att se planeringen för perioden</summary>
 
-| Vecka | Avsnitt           | Sidor   |
-| ----- | ----------------- | ------- |
-| 17    | Repetition        | Kap 1-4 |
-| 18    | Repetition        | Kap 1-4 |
-| 19    | Repetition        | Kap 1-4 |
-| 20    | Kursprov (tor)    |         |
-| 21-22 | Inlämningsuppgift |         |
+| Vecka | Avsnitt        | Sidor   |
+| ----- | -------------- | ------- |
+| 17    | Repetition     | Kap 1-4 |
+| 18    | Repetition     | Kap 1-4 |
+| 19    | Repetition     | Kap 1-4 |
+| 20    | Kursprov (tor) |         |
 
 </details>
